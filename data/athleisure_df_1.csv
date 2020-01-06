@@ -1,0 +1,109 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,yoga pants,0,2018,06,google,779,65,12
+1,yoga pants,68,2018,07,google,779,65,12
+2,yoga pants,107,2018,08,google,779,65,12
+3,yoga pants,63,2018,09,google,779,65,12
+4,yoga pants,72,2018,10,google,779,65,12
+5,yoga pants,77,2018,11,google,779,65,12
+6,yoga pants,56,2018,12,google,779,65,12
+7,yoga pants,50,2019,01,google,779,65,12
+8,yoga pants,42,2019,02,google,779,65,12
+9,yoga pants,64,2019,03,google,779,65,12
+10,yoga pants,66,2019,04,google,779,65,12
+11,yoga pants,53,2019,05,google,779,65,12
+12,sweatpants,0,2018,06,google,750,62,12
+13,sweatpants,46,2018,07,google,750,62,12
+14,sweatpants,45,2018,08,google,750,62,12
+15,sweatpants,56,2018,09,google,750,62,12
+16,sweatpants,88,2018,10,google,750,62,12
+17,sweatpants,80,2018,11,google,750,62,12
+18,sweatpants,79,2018,12,google,750,62,12
+19,sweatpants,71,2019,01,google,750,62,12
+20,sweatpants,74,2019,02,google,750,62,12
+21,sweatpants,72,2019,03,google,750,62,12
+22,sweatpants,52,2019,04,google,750,62,12
+23,sweatpants,52,2019,05,google,750,62,12
+24,sweatshirt,0,2018,06,google,3455,288,12
+25,sweatshirt,282,2018,07,google,3455,288,12
+26,sweatshirt,350,2018,08,google,3455,288,12
+27,sweatshirt,369,2018,09,google,3455,288,12
+28,sweatshirt,217,2018,10,google,3455,288,12
+29,sweatshirt,782,2018,11,google,3455,288,12
+30,sweatshirt,400,2018,12,google,3455,288,12
+31,sweatshirt,221,2019,01,google,3455,288,12
+32,sweatshirt,199,2019,02,google,3455,288,12
+33,sweatshirt,174,2019,03,google,3455,288,12
+34,sweatshirt,185,2019,04,google,3455,288,12
+35,sweatshirt,130,2019,05,google,3455,288,12
+36,yoga pants,0,2018,06,youtube,11349,946,12
+37,yoga pants,2185,2018,07,youtube,11349,946,12
+38,yoga pants,2370,2018,08,youtube,11349,946,12
+39,yoga pants,716,2018,09,youtube,11349,946,12
+40,yoga pants,1468,2018,10,youtube,11349,946,12
+41,yoga pants,5,2018,11,youtube,11349,946,12
+42,yoga pants,145,2018,12,youtube,11349,946,12
+43,yoga pants,490,2019,01,youtube,11349,946,12
+44,yoga pants,716,2019,02,youtube,11349,946,12
+45,yoga pants,145,2019,03,youtube,11349,946,12
+46,yoga pants,1641,2019,04,youtube,11349,946,12
+47,yoga pants,1468,2019,05,youtube,11349,946,12
+48,sweatpants,0,2018,06,youtube,19635,1637,12
+49,sweatpants,5579,2018,07,youtube,19635,1637,12
+50,sweatpants,5427,2018,08,youtube,19635,1637,12
+51,sweatpants,5427,2018,09,youtube,19635,1637,12
+52,sweatpants,989,2018,10,youtube,19635,1637,12
+53,sweatpants,247,2018,11,youtube,19635,1637,12
+54,sweatpants,490,2018,12,youtube,19635,1637,12
+55,sweatpants,490,2019,01,youtube,19635,1637,12
+56,sweatpants,315,2019,02,youtube,19635,1637,12
+57,sweatpants,247,2019,03,youtube,19635,1637,12
+58,sweatpants,315,2019,04,youtube,19635,1637,12
+59,sweatpants,109,2019,05,youtube,19635,1637,12
+60,sweatshirt,0,2018,06,youtube,766816,63902,12
+61,sweatshirt,46393,2018,07,youtube,766816,63902,12
+62,sweatshirt,41699,2018,08,youtube,766816,63902,12
+63,sweatshirt,70766,2018,09,youtube,766816,63902,12
+64,sweatshirt,45793,2018,10,youtube,766816,63902,12
+65,sweatshirt,272982,2018,11,youtube,766816,63902,12
+66,sweatshirt,113635,2018,12,youtube,766816,63902,12
+67,sweatshirt,63830,2019,01,youtube,766816,63902,12
+68,sweatshirt,44604,2019,02,youtube,766816,63902,12
+69,sweatshirt,21315,2019,03,youtube,766816,63902,12
+70,sweatshirt,30658,2019,04,youtube,766816,63902,12
+71,sweatshirt,15141,2019,05,youtube,766816,63902,12
+72,yoga pants,0,2018,06,amazon,85051,7088,12
+73,yoga pants,7128,2018,07,amazon,85051,7088,12
+74,yoga pants,5502,2018,08,amazon,85051,7088,12
+75,yoga pants,9435,2018,09,amazon,85051,7088,12
+76,yoga pants,12455,2018,10,amazon,85051,7088,12
+77,yoga pants,12148,2018,11,amazon,85051,7088,12
+78,yoga pants,8846,2018,12,amazon,85051,7088,12
+79,yoga pants,9731,2019,01,amazon,85051,7088,12
+80,yoga pants,7692,2019,02,amazon,85051,7088,12
+81,yoga pants,5502,2019,03,amazon,85051,7088,12
+82,yoga pants,3306,2019,04,amazon,85051,7088,12
+83,yoga pants,3306,2019,05,amazon,85051,7088,12
+84,sweatpants,0,2018,06,amazon,120749,10063,12
+85,sweatpants,6302,2018,07,amazon,120749,10063,12
+86,sweatpants,3306,2018,08,amazon,120749,10063,12
+87,sweatpants,8265,2018,09,amazon,120749,10063,12
+88,sweatpants,16191,2018,10,amazon,120749,10063,12
+89,sweatpants,30885,2018,11,amazon,120749,10063,12
+90,sweatpants,19363,2018,12,amazon,120749,10063,12
+91,sweatpants,9435,2019,01,amazon,120749,10063,12
+92,sweatpants,10629,2019,02,amazon,120749,10063,12
+93,sweatpants,8555,2019,03,amazon,120749,10063,12
+94,sweatpants,4734,2019,04,amazon,120749,10063,12
+95,sweatpants,3084,2019,05,amazon,120749,10063,12
+96,sweatshirt,0,2018,06,amazon,105088,8758,12
+97,sweatshirt,4485,2018,07,amazon,105088,8758,12
+98,sweatshirt,4001,2018,08,amazon,105088,8758,12
+99,sweatshirt,14001,2018,09,amazon,105088,8758,12
+100,sweatshirt,17137,2018,10,amazon,105088,8758,12
+101,sweatshirt,14936,2018,11,amazon,105088,8758,12
+102,sweatshirt,17771,2018,12,amazon,105088,8758,12
+103,sweatshirt,10930,2019,01,amazon,105088,8758,12
+104,sweatshirt,6302,2019,02,amazon,105088,8758,12
+105,sweatshirt,7978,2019,03,amazon,105088,8758,12
+106,sweatshirt,4241,2019,04,amazon,105088,8758,12
+107,sweatshirt,3306,2019,05,amazon,105088,8758,12

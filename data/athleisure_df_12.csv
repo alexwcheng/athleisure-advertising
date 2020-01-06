@@ -1,0 +1,97 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,high waist,0,2018,06,google,29,2,9
+1,high waist,4,2018,07,google,29,2,9
+2,high waist,4,2018,08,google,29,2,9
+3,high waist,4,2018,09,google,29,2,9
+4,high waist,2,2018,10,google,29,2,9
+5,high waist,5,2018,11,google,29,2,9
+6,high waist,0,2018,12,google,29,2,9
+7,high waist,0,2019,01,google,29,2,9
+8,high waist,3,2019,02,google,29,2,9
+9,high waist,4,2019,03,google,29,2,9
+10,high waist,1,2019,04,google,29,2,9
+11,high waist,1,2019,05,google,29,2,9
+12,tights,0,2018,06,google,703,59,12
+13,tights,60,2018,07,google,703,59,12
+14,tights,82,2018,08,google,703,59,12
+15,tights,47,2018,09,google,703,59,12
+16,tights,95,2018,10,google,703,59,12
+17,tights,61,2018,11,google,703,59,12
+18,tights,36,2018,12,google,703,59,12
+19,tights,56,2019,01,google,703,59,12
+20,tights,47,2019,02,google,703,59,12
+21,tights,56,2019,03,google,703,59,12
+22,tights,45,2019,04,google,703,59,12
+23,tights,59,2019,05,google,703,59,12
+24,baggy,0,2018,06,google,103,9,12
+25,baggy,8,2018,07,google,103,9,12
+26,baggy,4,2018,08,google,103,9,12
+27,baggy,9,2018,09,google,103,9,12
+28,baggy,7,2018,10,google,103,9,12
+29,baggy,12,2018,11,google,103,9,12
+30,baggy,7,2018,12,google,103,9,12
+31,baggy,11,2019,01,google,103,9,12
+32,baggy,7,2019,02,google,103,9,12
+33,baggy,6,2019,03,google,103,9,12
+34,baggy,13,2019,04,google,103,9,12
+35,baggy,8,2019,05,google,103,9,12
+36,tights,0,2018,06,youtube,2512,210,12
+37,tights,5,2018,07,youtube,2512,210,12
+38,tights,109,2018,08,youtube,2512,210,12
+39,tights,6,2018,09,youtube,2512,210,12
+40,tights,190,2018,10,youtube,2512,210,12
+41,tights,2,2018,11,youtube,2512,210,12
+42,tights,2,2018,12,youtube,2512,210,12
+43,tights,3,2019,01,youtube,2512,210,12
+44,tights,6,2019,02,youtube,2512,210,12
+45,tights,716,2019,03,youtube,2512,210,12
+46,tights,5,2019,04,youtube,2512,210,12
+47,tights,1468,2019,05,youtube,2512,210,12
+48,baggy,0,2018,06,youtube,7,1,7
+49,baggy,2,2018,07,youtube,7,1,7
+50,baggy,2,2018,08,youtube,7,1,7
+51,baggy,2,2018,09,youtube,7,1,7
+52,baggy,1,2018,10,youtube,7,1,7
+53,baggy,0,2018,11,youtube,7,1,7
+54,baggy,0,2018,12,youtube,7,1,7
+55,baggy,0,2019,01,youtube,7,1,7
+56,baggy,0,2019,02,youtube,7,1,7
+57,baggy,0,2019,03,youtube,7,1,7
+58,baggy,0,2019,04,youtube,7,1,7
+59,baggy,0,2019,05,youtube,7,1,7
+60,high waist,0,2018,06,amazon,3768,314,11
+61,high waist,73,2018,07,amazon,3768,314,11
+62,high waist,73,2018,08,amazon,3768,314,11
+63,high waist,0,2018,09,amazon,3768,314,11
+64,high waist,187,2018,10,amazon,3768,314,11
+65,high waist,16,2018,11,amazon,3768,314,11
+66,high waist,507,2018,12,amazon,3768,314,11
+67,high waist,873,2019,01,amazon,3768,314,11
+68,high waist,507,2019,02,amazon,3768,314,11
+69,high waist,507,2019,03,amazon,3768,314,11
+70,high waist,337,2019,04,amazon,3768,314,11
+71,high waist,688,2019,05,amazon,3768,314,11
+72,tights,0,2018,06,amazon,64693,5392,12
+73,tights,1834,2018,07,amazon,64693,5392,12
+74,tights,4001,2018,08,amazon,64693,5392,12
+75,tights,6302,2018,09,amazon,64693,5392,12
+76,tights,17137,2018,10,amazon,64693,5392,12
+77,tights,12763,2018,11,amazon,64693,5392,12
+78,tights,7409,2018,12,amazon,64693,5392,12
+79,tights,4241,2019,01,amazon,64693,5392,12
+80,tights,4001,2019,02,amazon,64693,5392,12
+81,tights,3533,2019,03,amazon,64693,5392,12
+82,tights,1638,2019,04,amazon,64693,5392,12
+83,tights,1834,2019,05,amazon,64693,5392,12
+84,baggy,0,2018,06,amazon,2210,185,5
+85,baggy,73,2018,07,amazon,2210,185,5
+86,baggy,0,2018,08,amazon,2210,185,5
+87,baggy,16,2018,09,amazon,2210,185,5
+88,baggy,1061,2018,10,amazon,2210,185,5
+89,baggy,873,2018,11,amazon,2210,185,5
+90,baggy,187,2018,12,amazon,2210,185,5
+91,baggy,0,2019,01,amazon,2210,185,5
+92,baggy,0,2019,02,amazon,2210,185,5
+93,baggy,0,2019,03,amazon,2210,185,5
+94,baggy,0,2019,04,amazon,2210,185,5
+95,baggy,0,2019,05,amazon,2210,185,5

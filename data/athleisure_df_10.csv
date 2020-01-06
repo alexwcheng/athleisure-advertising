@@ -1,0 +1,97 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,loose,0,2018,06,google,1458,121,12
+1,loose,143,2018,07,google,1458,121,12
+2,loose,95,2018,08,google,1458,121,12
+3,loose,108,2018,09,google,1458,121,12
+4,loose,118,2018,10,google,1458,121,12
+5,loose,118,2018,11,google,1458,121,12
+6,loose,94,2018,12,google,1458,121,12
+7,loose,137,2019,01,google,1458,121,12
+8,loose,132,2019,02,google,1458,121,12
+9,loose,144,2019,03,google,1458,121,12
+10,loose,135,2019,04,google,1458,121,12
+11,loose,102,2019,05,google,1458,121,12
+12,loose fit,0,2018,06,google,13,1,7
+13,loose fit,2,2018,07,google,13,1,7
+14,loose fit,0,2018,08,google,13,1,7
+15,loose fit,2,2018,09,google,13,1,7
+16,loose fit,0,2018,10,google,13,1,7
+17,loose fit,2,2018,11,google,13,1,7
+18,loose fit,0,2018,12,google,13,1,7
+19,loose fit,0,2019,01,google,13,1,7
+20,loose fit,1,2019,02,google,13,1,7
+21,loose fit,2,2019,03,google,13,1,7
+22,loose fit,0,2019,04,google,13,1,7
+23,loose fit,1,2019,05,google,13,1,7
+24,fitted,0,2018,06,google,315,26,12
+25,fitted,70,2018,07,google,315,26,12
+26,fitted,35,2018,08,google,315,26,12
+27,fitted,34,2018,09,google,315,26,12
+28,fitted,34,2018,10,google,315,26,12
+29,fitted,12,2018,11,google,315,26,12
+30,fitted,16,2018,12,google,315,26,12
+31,fitted,13,2019,01,google,315,26,12
+32,fitted,24,2019,02,google,315,26,12
+33,fitted,17,2019,03,google,315,26,12
+34,fitted,9,2019,04,google,315,26,12
+35,fitted,11,2019,05,google,315,26,12
+36,loose,0,2018,06,youtube,27091,2258,12
+37,loose,2370,2018,07,youtube,27091,2258,12
+38,loose,2740,2018,08,youtube,27091,2258,12
+39,loose,1140,2018,09,youtube,27091,2258,12
+40,loose,4807,2018,10,youtube,27091,2258,12
+41,loose,2185,2018,11,youtube,27091,2258,12
+42,loose,190,2018,12,youtube,27091,2258,12
+43,loose,989,2019,01,youtube,27091,2258,12
+44,loose,847,2019,02,youtube,27091,2258,12
+45,loose,1140,2019,03,youtube,27091,2258,12
+46,loose,7395,2019,04,youtube,27091,2258,12
+47,loose,3288,2019,05,youtube,27091,2258,12
+48,fitted,0,2018,06,youtube,2271,190,12
+49,fitted,5,2018,07,youtube,2271,190,12
+50,fitted,247,2018,08,youtube,2271,190,12
+51,fitted,989,2018,09,youtube,2271,190,12
+52,fitted,396,2018,10,youtube,2271,190,12
+53,fitted,109,2018,11,youtube,2271,190,12
+54,fitted,5,2018,12,youtube,2271,190,12
+55,fitted,315,2019,01,youtube,2271,190,12
+56,fitted,6,2019,02,youtube,2271,190,12
+57,fitted,4,2019,03,youtube,2271,190,12
+58,fitted,5,2019,04,youtube,2271,190,12
+59,fitted,190,2019,05,youtube,2271,190,12
+60,loose,0,2018,06,amazon,61910,5160,12
+61,loose,3765,2018,07,amazon,61910,5160,12
+62,loose,4734,2018,08,amazon,61910,5160,12
+63,loose,6302,2018,09,amazon,61910,5160,12
+64,loose,4734,2018,10,amazon,61910,5160,12
+65,loose,6574,2018,11,amazon,61910,5160,12
+66,loose,17137,2018,12,amazon,61910,5160,12
+67,loose,4986,2019,01,amazon,61910,5160,12
+68,loose,5502,2019,02,amazon,61910,5160,12
+69,loose,2651,2019,03,amazon,61910,5160,12
+70,loose,3084,2019,04,amazon,61910,5160,12
+71,loose,2441,2019,05,amazon,61910,5160,12
+72,loose fit,0,2018,06,amazon,292,25,5
+73,loose fit,0,2018,07,amazon,292,25,5
+74,loose fit,16,2018,08,amazon,292,25,5
+75,loose fit,0,2018,09,amazon,292,25,5
+76,loose fit,0,2018,10,amazon,292,25,5
+77,loose fit,16,2018,11,amazon,292,25,5
+78,loose fit,0,2018,12,amazon,292,25,5
+79,loose fit,73,2019,01,amazon,292,25,5
+80,loose fit,0,2019,02,amazon,292,25,5
+81,loose fit,0,2019,03,amazon,292,25,5
+82,loose fit,0,2019,04,amazon,292,25,5
+83,loose fit,187,2019,05,amazon,292,25,5
+84,fitted,0,2018,06,amazon,17422,1452,12
+85,fitted,3306,2018,07,amazon,17422,1452,12
+86,fitted,4001,2018,08,amazon,17422,1452,12
+87,fitted,3084,2018,09,amazon,17422,1452,12
+88,fitted,507,2018,10,amazon,17422,1452,12
+89,fitted,1834,2018,11,amazon,17422,1452,12
+90,fitted,873,2018,12,amazon,17422,1452,12
+91,fitted,1061,2019,01,amazon,17422,1452,12
+92,fitted,688,2019,02,amazon,17422,1452,12
+93,fitted,507,2019,03,amazon,17422,1452,12
+94,fitted,873,2019,04,amazon,17422,1452,12
+95,fitted,688,2019,05,amazon,17422,1452,12
