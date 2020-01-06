@@ -1,0 +1,337 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,crew neck,0,2018,06,google,353,29,12
+1,crew neck,41,2018,07,google,353,29,12
+2,crew neck,41,2018,08,google,353,29,12
+3,crew neck,54,2018,09,google,353,29,12
+4,crew neck,36,2018,10,google,353,29,12
+5,crew neck,31,2018,11,google,353,29,12
+6,crew neck,20,2018,12,google,353,29,12
+7,crew neck,36,2019,01,google,353,29,12
+8,crew neck,22,2019,02,google,353,29,12
+9,crew neck,20,2019,03,google,353,29,12
+10,crew neck,17,2019,04,google,353,29,12
+11,crew neck,24,2019,05,google,353,29,12
+12,thumb hole,0,2018,06,google,4,1,1
+13,thumb hole,0,2018,07,google,4,1,1
+14,thumb hole,0,2018,08,google,4,1,1
+15,thumb hole,0,2018,09,google,4,1,1
+16,thumb hole,0,2018,10,google,4,1,1
+17,thumb hole,0,2018,11,google,4,1,1
+18,thumb hole,0,2018,12,google,4,1,1
+19,thumb hole,0,2019,01,google,4,1,1
+20,thumb hole,0,2019,02,google,4,1,1
+21,thumb hole,0,2019,03,google,4,1,1
+22,thumb hole,0,2019,04,google,4,1,1
+23,thumb hole,0,2019,05,google,4,1,1
+24,pullover,0,2018,06,google,227,19,11
+25,pullover,10,2018,07,google,227,19,11
+26,pullover,6,2018,08,google,227,19,11
+27,pullover,7,2018,09,google,227,19,11
+28,pullover,52,2018,10,google,227,19,11
+29,pullover,48,2018,11,google,227,19,11
+30,pullover,49,2018,12,google,227,19,11
+31,pullover,31,2019,01,google,227,19,11
+32,pullover,12,2019,02,google,227,19,11
+33,pullover,6,2019,03,google,227,19,11
+34,pullover,0,2019,04,google,227,19,11
+35,pullover,4,2019,05,google,227,19,11
+36,fleece,0,2018,06,google,740,62,12
+37,fleece,58,2018,07,google,740,62,12
+38,fleece,56,2018,08,google,740,62,12
+39,fleece,72,2018,09,google,740,62,12
+40,fleece,90,2018,10,google,740,62,12
+41,fleece,109,2018,11,google,740,62,12
+42,fleece,80,2018,12,google,740,62,12
+43,fleece,67,2019,01,google,740,62,12
+44,fleece,57,2019,02,google,740,62,12
+45,fleece,56,2019,03,google,740,62,12
+46,fleece,26,2019,04,google,740,62,12
+47,fleece,47,2019,05,google,740,62,12
+48,joggers,0,2018,06,google,1320,110,12
+49,joggers,118,2018,07,google,1320,110,12
+50,joggers,117,2018,08,google,1320,110,12
+51,joggers,94,2018,09,google,1320,110,12
+52,joggers,151,2018,10,google,1320,110,12
+53,joggers,170,2018,11,google,1320,110,12
+54,joggers,118,2018,12,google,1320,110,12
+55,joggers,122,2019,01,google,1320,110,12
+56,joggers,114,2019,02,google,1320,110,12
+57,joggers,88,2019,03,google,1320,110,12
+58,joggers,54,2019,04,google,1320,110,12
+59,joggers,100,2019,05,google,1320,110,12
+60,hoodie,0,2018,06,google,1883,157,12
+61,hoodie,56,2018,07,google,1883,157,12
+62,hoodie,62,2018,08,google,1883,157,12
+63,hoodie,65,2018,09,google,1883,157,12
+64,hoodie,61,2018,10,google,1883,157,12
+65,hoodie,51,2018,11,google,1883,157,12
+66,hoodie,162,2018,12,google,1883,157,12
+67,hoodie,299,2019,01,google,1883,157,12
+68,hoodie,316,2019,02,google,1883,157,12
+69,hoodie,302,2019,03,google,1883,157,12
+70,hoodie,211,2019,04,google,1883,157,12
+71,hoodie,199,2019,05,google,1883,157,12
+72,hooded,0,2018,06,google,419,35,12
+73,hooded,52,2018,07,google,419,35,12
+74,hooded,31,2018,08,google,419,35,12
+75,hooded,40,2018,09,google,419,35,12
+76,hooded,36,2018,10,google,419,35,12
+77,hooded,29,2018,11,google,419,35,12
+78,hooded,24,2018,12,google,419,35,12
+79,hooded,36,2019,01,google,419,35,12
+80,hooded,27,2019,02,google,419,35,12
+81,hooded,37,2019,03,google,419,35,12
+82,hooded,54,2019,04,google,419,35,12
+83,hooded,25,2019,05,google,419,35,12
+84,capri,0,2018,06,google,703,59,12
+85,capri,97,2018,07,google,703,59,12
+86,capri,78,2018,08,google,703,59,12
+87,capri,74,2018,09,google,703,59,12
+88,capri,45,2018,10,google,703,59,12
+89,capri,31,2018,11,google,703,59,12
+90,capri,45,2018,12,google,703,59,12
+91,capri,50,2019,01,google,703,59,12
+92,capri,58,2019,02,google,703,59,12
+93,capri,53,2019,03,google,703,59,12
+94,capri,56,2019,04,google,703,59,12
+95,capri,57,2019,05,google,703,59,12
+96,muscle tee,0,2018,06,google,37,3,10
+97,muscle tee,4,2018,07,google,37,3,10
+98,muscle tee,4,2018,08,google,37,3,10
+99,muscle tee,2,2018,09,google,37,3,10
+100,muscle tee,9,2018,10,google,37,3,10
+101,muscle tee,3,2018,11,google,37,3,10
+102,muscle tee,3,2018,12,google,37,3,10
+103,muscle tee,0,2019,01,google,37,3,10
+104,muscle tee,3,2019,02,google,37,3,10
+105,muscle tee,4,2019,03,google,37,3,10
+106,muscle tee,2,2019,04,google,37,3,10
+107,muscle tee,2,2019,05,google,37,3,10
+108,basic tee,0,2018,06,google,12,1,4
+109,basic tee,4,2018,07,google,12,1,4
+110,basic tee,0,2018,08,google,12,1,4
+111,basic tee,0,2018,09,google,12,1,4
+112,basic tee,0,2018,10,google,12,1,4
+113,basic tee,2,2018,11,google,12,1,4
+114,basic tee,0,2018,12,google,12,1,4
+115,basic tee,0,2019,01,google,12,1,4
+116,basic tee,0,2019,02,google,12,1,4
+117,basic tee,2,2019,03,google,12,1,4
+118,basic tee,4,2019,04,google,12,1,4
+119,basic tee,0,2019,05,google,12,1,4
+120,thumb hole,0,2018,06,youtube,1,1,1
+121,thumb hole,0,2018,07,youtube,1,1,1
+122,thumb hole,0,2018,08,youtube,1,1,1
+123,thumb hole,0,2018,09,youtube,1,1,1
+124,thumb hole,1,2018,10,youtube,1,1,1
+125,thumb hole,0,2018,11,youtube,1,1,1
+126,thumb hole,0,2018,12,youtube,1,1,1
+127,thumb hole,0,2019,01,youtube,1,1,1
+128,thumb hole,0,2019,02,youtube,1,1,1
+129,thumb hole,0,2019,03,youtube,1,1,1
+130,thumb hole,0,2019,04,youtube,1,1,1
+131,thumb hole,0,2019,05,youtube,1,1,1
+132,pullover,0,2018,06,youtube,155,13,8
+133,pullover,0,2018,07,youtube,155,13,8
+134,pullover,145,2018,08,youtube,155,13,8
+135,pullover,0,2018,09,youtube,155,13,8
+136,pullover,0,2018,10,youtube,155,13,8
+137,pullover,2,2018,11,youtube,155,13,8
+138,pullover,1,2018,12,youtube,155,13,8
+139,pullover,0,2019,01,youtube,155,13,8
+140,pullover,2,2019,02,youtube,155,13,8
+141,pullover,1,2019,03,youtube,155,13,8
+142,pullover,2,2019,04,youtube,155,13,8
+143,pullover,2,2019,05,youtube,155,13,8
+144,fleece,0,2018,06,youtube,279,24,12
+145,fleece,5,2018,07,youtube,279,24,12
+146,fleece,0,2018,08,youtube,279,24,12
+147,fleece,2,2018,09,youtube,279,24,12
+148,fleece,4,2018,10,youtube,279,24,12
+149,fleece,247,2018,11,youtube,279,24,12
+150,fleece,2,2018,12,youtube,279,24,12
+151,fleece,6,2019,01,youtube,279,24,12
+152,fleece,4,2019,02,youtube,279,24,12
+153,fleece,5,2019,03,youtube,279,24,12
+154,fleece,2,2019,04,youtube,279,24,12
+155,fleece,2,2019,05,youtube,279,24,12
+156,hoodie,0,2018,06,youtube,836290,69691,12
+157,hoodie,3643,2018,07,youtube,836290,69691,12
+158,hoodie,7395,2018,08,youtube,836290,69691,12
+159,hoodie,4486,2018,09,youtube,836290,69691,12
+160,hoodie,6480,2018,10,youtube,836290,69691,12
+161,hoodie,5880,2018,11,youtube,836290,69691,12
+162,hoodie,115084,2018,12,youtube,836290,69691,12
+163,hoodie,208272,2019,01,youtube,836290,69691,12
+164,hoodie,156377,2019,02,youtube,836290,69691,12
+165,hoodie,133564,2019,03,youtube,836290,69691,12
+166,hoodie,90222,2019,04,youtube,836290,69691,12
+167,hoodie,104887,2019,05,youtube,836290,69691,12
+168,hooded,0,2018,06,youtube,328,28,12
+169,hooded,190,2018,07,youtube,328,28,12
+170,hooded,4,2018,08,youtube,328,28,12
+171,hooded,3,2018,09,youtube,328,28,12
+172,hooded,2,2018,10,youtube,328,28,12
+173,hooded,109,2018,11,youtube,328,28,12
+174,hooded,5,2018,12,youtube,328,28,12
+175,hooded,6,2019,01,youtube,328,28,12
+176,hooded,2,2019,02,youtube,328,28,12
+177,hooded,2,2019,03,youtube,328,28,12
+178,hooded,4,2019,04,youtube,328,28,12
+179,hooded,1,2019,05,youtube,328,28,12
+180,capri,0,2018,06,youtube,14,2,10
+181,capri,2,2018,07,youtube,14,2,10
+182,capri,4,2018,08,youtube,14,2,10
+183,capri,2,2018,09,youtube,14,2,10
+184,capri,2,2018,10,youtube,14,2,10
+185,capri,2,2018,11,youtube,14,2,10
+186,capri,1,2018,12,youtube,14,2,10
+187,capri,0,2019,01,youtube,14,2,10
+188,capri,0,2019,02,youtube,14,2,10
+189,capri,1,2019,03,youtube,14,2,10
+190,capri,0,2019,04,youtube,14,2,10
+191,capri,0,2019,05,youtube,14,2,10
+192,muscle tee,0,2018,06,youtube,7,1,9
+193,muscle tee,0,2018,07,youtube,7,1,9
+194,muscle tee,2,2018,08,youtube,7,1,9
+195,muscle tee,1,2018,09,youtube,7,1,9
+196,muscle tee,1,2018,10,youtube,7,1,9
+197,muscle tee,0,2018,11,youtube,7,1,9
+198,muscle tee,0,2018,12,youtube,7,1,9
+199,muscle tee,0,2019,01,youtube,7,1,9
+200,muscle tee,0,2019,02,youtube,7,1,9
+201,muscle tee,2,2019,03,youtube,7,1,9
+202,muscle tee,1,2019,04,youtube,7,1,9
+203,muscle tee,0,2019,05,youtube,7,1,9
+204,basic tee,0,2018,06,youtube,1,1,3
+205,basic tee,0,2018,07,youtube,1,1,3
+206,basic tee,0,2018,08,youtube,1,1,3
+207,basic tee,0,2018,09,youtube,1,1,3
+208,basic tee,1,2018,10,youtube,1,1,3
+209,basic tee,0,2018,11,youtube,1,1,3
+210,basic tee,0,2018,12,youtube,1,1,3
+211,basic tee,0,2019,01,youtube,1,1,3
+212,basic tee,0,2019,02,youtube,1,1,3
+213,basic tee,0,2019,03,youtube,1,1,3
+214,basic tee,0,2019,04,youtube,1,1,3
+215,basic tee,0,2019,05,youtube,1,1,3
+216,crew neck,0,2018,06,amazon,2151,180,8
+217,crew neck,73,2018,07,amazon,2151,180,8
+218,crew neck,337,2018,08,amazon,2151,180,8
+219,crew neck,0,2018,09,amazon,2151,180,8
+220,crew neck,337,2018,10,amazon,2151,180,8
+221,crew neck,507,2018,11,amazon,2151,180,8
+222,crew neck,16,2018,12,amazon,2151,180,8
+223,crew neck,187,2019,01,amazon,2151,180,8
+224,crew neck,0,2019,02,amazon,2151,180,8
+225,crew neck,0,2019,03,amazon,2151,180,8
+226,crew neck,507,2019,04,amazon,2151,180,8
+227,crew neck,187,2019,05,amazon,2151,180,8
+228,thumb hole,0,2018,06,amazon,385,33,4
+229,thumb hole,0,2018,07,amazon,385,33,4
+230,thumb hole,0,2018,08,amazon,385,33,4
+231,thumb hole,0,2018,09,amazon,385,33,4
+232,thumb hole,0,2018,10,amazon,385,33,4
+233,thumb hole,337,2018,11,amazon,385,33,4
+234,thumb hole,16,2018,12,amazon,385,33,4
+235,thumb hole,16,2019,01,amazon,385,33,4
+236,thumb hole,16,2019,02,amazon,385,33,4
+237,thumb hole,0,2019,03,amazon,385,33,4
+238,thumb hole,0,2019,04,amazon,385,33,4
+239,thumb hole,0,2019,05,amazon,385,33,4
+240,pullover,0,2018,06,amazon,17303,1442,10
+241,pullover,16,2018,07,amazon,17303,1442,10
+242,pullover,16,2018,08,amazon,17303,1442,10
+243,pullover,16,2018,09,amazon,17303,1442,10
+244,pullover,2441,2018,10,amazon,17303,1442,10
+245,pullover,2441,2018,11,amazon,17303,1442,10
+246,pullover,9435,2018,12,amazon,17303,1442,10
+247,pullover,2033,2019,01,amazon,17303,1442,10
+248,pullover,873,2019,02,amazon,17303,1442,10
+249,pullover,16,2019,03,amazon,17303,1442,10
+250,pullover,0,2019,04,amazon,17303,1442,10
+251,pullover,16,2019,05,amazon,17303,1442,10
+252,fleece,0,2018,06,amazon,47487,3958,12
+253,fleece,2651,2018,07,amazon,47487,3958,12
+254,fleece,2235,2018,08,amazon,47487,3958,12
+255,fleece,3084,2018,09,amazon,47487,3958,12
+256,fleece,3765,2018,10,amazon,47487,3958,12
+257,fleece,7409,2018,11,amazon,47487,3958,12
+258,fleece,13690,2018,12,amazon,47487,3958,12
+259,fleece,4485,2019,01,amazon,47487,3958,12
+260,fleece,4241,2019,02,amazon,47487,3958,12
+261,fleece,1638,2019,03,amazon,47487,3958,12
+262,fleece,2651,2019,04,amazon,47487,3958,12
+263,fleece,1638,2019,05,amazon,47487,3958,12
+264,joggers,0,2018,06,amazon,215635,17970,12
+265,joggers,20002,2018,07,amazon,215635,17970,12
+266,joggers,16506,2018,08,amazon,215635,17970,12
+267,joggers,15562,2018,09,amazon,215635,17970,12
+268,joggers,20966,2018,10,amazon,215635,17970,12
+269,joggers,39687,2018,11,amazon,215635,17970,12
+270,joggers,28181,2018,12,amazon,215635,17970,12
+271,joggers,21288,2019,01,amazon,215635,17970,12
+272,joggers,20323,2019,02,amazon,215635,17970,12
+273,joggers,11537,2019,03,amazon,215635,17970,12
+274,joggers,12148,2019,04,amazon,215635,17970,12
+275,joggers,9435,2019,05,amazon,215635,17970,12
+276,hoodie,0,2018,06,amazon,347079,28924,12
+277,hoodie,15562,2018,07,amazon,347079,28924,12
+278,hoodie,24210,2018,08,amazon,347079,28924,12
+279,hoodie,32255,2018,09,amazon,347079,28924,12
+280,hoodie,43754,2018,10,amazon,347079,28924,12
+281,hoodie,57562,2018,11,amazon,347079,28924,12
+282,hoodie,64326,2018,12,amazon,347079,28924,12
+283,hoodie,37521,2019,01,amazon,347079,28924,12
+284,hoodie,26515,2019,02,amazon,347079,28924,12
+285,hoodie,20966,2019,03,amazon,347079,28924,12
+286,hoodie,15562,2019,04,amazon,347079,28924,12
+287,hoodie,8846,2019,05,amazon,347079,28924,12
+288,hooded,0,2018,06,amazon,10721,894,12
+289,hooded,507,2018,07,amazon,10721,894,12
+290,hooded,2033,2018,08,amazon,10721,894,12
+291,hooded,507,2018,09,amazon,10721,894,12
+292,hooded,187,2018,10,amazon,10721,894,12
+293,hooded,1444,2018,11,amazon,10721,894,12
+294,hooded,337,2018,12,amazon,10721,894,12
+295,hooded,1444,2019,01,amazon,10721,894,12
+296,hooded,2865,2019,02,amazon,10721,894,12
+297,hooded,873,2019,03,amazon,10721,894,12
+298,hooded,187,2019,04,amazon,10721,894,12
+299,hooded,337,2019,05,amazon,10721,894,12
+300,capri,0,2018,06,amazon,5394,450,12
+301,capri,873,2018,07,amazon,5394,450,12
+302,capri,337,2018,08,amazon,5394,450,12
+303,capri,337,2018,09,amazon,5394,450,12
+304,capri,507,2018,10,amazon,5394,450,12
+305,capri,688,2018,11,amazon,5394,450,12
+306,capri,337,2018,12,amazon,5394,450,12
+307,capri,73,2019,01,amazon,5394,450,12
+308,capri,337,2019,02,amazon,5394,450,12
+309,capri,337,2019,03,amazon,5394,450,12
+310,capri,507,2019,04,amazon,5394,450,12
+311,capri,1061,2019,05,amazon,5394,450,12
+312,muscle tee,0,2018,06,amazon,283,24,7
+313,muscle tee,0,2018,07,amazon,283,24,7
+314,muscle tee,16,2018,08,amazon,283,24,7
+315,muscle tee,16,2018,09,amazon,283,24,7
+316,muscle tee,0,2018,10,amazon,283,24,7
+317,muscle tee,16,2018,11,amazon,283,24,7
+318,muscle tee,0,2018,12,amazon,283,24,7
+319,muscle tee,0,2019,01,amazon,283,24,7
+320,muscle tee,16,2019,02,amazon,283,24,7
+321,muscle tee,16,2019,03,amazon,283,24,7
+322,muscle tee,187,2019,04,amazon,283,24,7
+323,muscle tee,16,2019,05,amazon,283,24,7
+324,basic tee,0,2018,06,amazon,80,7,5
+325,basic tee,16,2018,07,amazon,80,7,5
+326,basic tee,16,2018,08,amazon,80,7,5
+327,basic tee,0,2018,09,amazon,80,7,5
+328,basic tee,0,2018,10,amazon,80,7,5
+329,basic tee,16,2018,11,amazon,80,7,5
+330,basic tee,0,2018,12,amazon,80,7,5
+331,basic tee,0,2019,01,amazon,80,7,5
+332,basic tee,16,2019,02,amazon,80,7,5
+333,basic tee,16,2019,03,amazon,80,7,5
+334,basic tee,0,2019,04,amazon,80,7,5
+335,basic tee,0,2019,05,amazon,80,7,5

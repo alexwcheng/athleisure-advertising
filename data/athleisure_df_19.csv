@@ -1,0 +1,97 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,tapered,0,2018,06,google,238,20,12
+1,tapered,27,2018,07,google,238,20,12
+2,tapered,25,2018,08,google,238,20,12
+3,tapered,16,2018,09,google,238,20,12
+4,tapered,32,2018,10,google,238,20,12
+5,tapered,24,2018,11,google,238,20,12
+6,tapered,7,2018,12,google,238,20,12
+7,tapered,26,2019,01,google,238,20,12
+8,tapered,16,2019,02,google,238,20,12
+9,tapered,14,2019,03,google,238,20,12
+10,tapered,18,2019,04,google,238,20,12
+11,tapered,19,2019,05,google,238,20,12
+12,lined,0,2018,06,google,847,71,12
+13,lined,50,2018,07,google,847,71,12
+14,lined,84,2018,08,google,847,71,12
+15,lined,97,2018,09,google,847,71,12
+16,lined,86,2018,10,google,847,71,12
+17,lined,39,2018,11,google,847,71,12
+18,lined,60,2018,12,google,847,71,12
+19,lined,107,2019,01,google,847,71,12
+20,lined,69,2019,02,google,847,71,12
+21,lined,77,2019,03,google,847,71,12
+22,lined,59,2019,04,google,847,71,12
+23,lined,81,2019,05,google,847,71,12
+24,quick dry,0,2018,06,google,25,2,8
+25,quick dry,0,2018,07,google,25,2,8
+26,quick dry,2,2018,08,google,25,2,8
+27,quick dry,0,2018,09,google,25,2,8
+28,quick dry,2,2018,10,google,25,2,8
+29,quick dry,3,2018,11,google,25,2,8
+30,quick dry,1,2018,12,google,25,2,8
+31,quick dry,0,2019,01,google,25,2,8
+32,quick dry,0,2019,02,google,25,2,8
+33,quick dry,4,2019,03,google,25,2,8
+34,quick dry,2,2019,04,google,25,2,8
+35,quick dry,5,2019,05,google,25,2,8
+36,tapered,0,2018,06,youtube,3,1,2
+37,tapered,0,2018,07,youtube,3,1,2
+38,tapered,2,2018,08,youtube,3,1,2
+39,tapered,1,2018,09,youtube,3,1,2
+40,tapered,0,2018,10,youtube,3,1,2
+41,tapered,0,2018,11,youtube,3,1,2
+42,tapered,0,2018,12,youtube,3,1,2
+43,tapered,0,2019,01,youtube,3,1,2
+44,tapered,0,2019,02,youtube,3,1,2
+45,tapered,0,2019,03,youtube,3,1,2
+46,tapered,0,2019,04,youtube,3,1,2
+47,tapered,0,2019,05,youtube,3,1,2
+48,lined,0,2018,06,youtube,2,1,1
+49,lined,2,2018,07,youtube,2,1,1
+50,lined,0,2018,08,youtube,2,1,1
+51,lined,0,2018,09,youtube,2,1,1
+52,lined,0,2018,10,youtube,2,1,1
+53,lined,0,2018,11,youtube,2,1,1
+54,lined,0,2018,12,youtube,2,1,1
+55,lined,0,2019,01,youtube,2,1,1
+56,lined,0,2019,02,youtube,2,1,1
+57,lined,0,2019,03,youtube,2,1,1
+58,lined,0,2019,04,youtube,2,1,1
+59,lined,0,2019,05,youtube,2,1,1
+60,tapered,0,2018,06,amazon,1313,110,8
+61,tapered,16,2018,07,amazon,1313,110,8
+62,tapered,16,2018,08,amazon,1313,110,8
+63,tapered,187,2018,09,amazon,1313,110,8
+64,tapered,187,2018,10,amazon,1313,110,8
+65,tapered,688,2018,11,amazon,1313,110,8
+66,tapered,187,2018,12,amazon,1313,110,8
+67,tapered,0,2019,01,amazon,1313,110,8
+68,tapered,0,2019,02,amazon,1313,110,8
+69,tapered,16,2019,03,amazon,1313,110,8
+70,tapered,0,2019,04,amazon,1313,110,8
+71,tapered,16,2019,05,amazon,1313,110,8
+72,lined,0,2018,06,amazon,18328,1528,7
+73,lined,0,2018,07,amazon,18328,1528,7
+74,lined,73,2018,08,amazon,18328,1528,7
+75,lined,16,2018,09,amazon,18328,1528,7
+76,lined,2651,2018,10,amazon,18328,1528,7
+77,lined,6032,2018,11,amazon,18328,1528,7
+78,lined,6032,2018,12,amazon,18328,1528,7
+79,lined,2651,2019,01,amazon,18328,1528,7
+80,lined,873,2019,02,amazon,18328,1528,7
+81,lined,0,2019,03,amazon,18328,1528,7
+82,lined,0,2019,04,amazon,18328,1528,7
+83,lined,0,2019,05,amazon,18328,1528,7
+84,quick dry,0,2018,06,amazon,21595,1800,12
+85,quick dry,5242,2018,07,amazon,21595,1800,12
+86,quick dry,2651,2018,08,amazon,21595,1800,12
+87,quick dry,1444,2018,09,amazon,21595,1800,12
+88,quick dry,1252,2018,10,amazon,21595,1800,12
+89,quick dry,507,2018,11,amazon,21595,1800,12
+90,quick dry,1444,2018,12,amazon,21595,1800,12
+91,quick dry,2235,2019,01,amazon,21595,1800,12
+92,quick dry,1638,2019,02,amazon,21595,1800,12
+93,quick dry,873,2019,03,amazon,21595,1800,12
+94,quick dry,1444,2019,04,amazon,21595,1800,12
+95,quick dry,2865,2019,05,amazon,21595,1800,12

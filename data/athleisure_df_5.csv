@@ -1,0 +1,49 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,short sleeve,0,2018,06,google,124,10,12
+1,short sleeve,19,2018,07,google,124,10,12
+2,short sleeve,14,2018,08,google,124,10,12
+3,short sleeve,7,2018,09,google,124,10,12
+4,short sleeve,9,2018,10,google,124,10,12
+5,short sleeve,5,2018,11,google,124,10,12
+6,short sleeve,3,2018,12,google,124,10,12
+7,short sleeve,7,2019,01,google,124,10,12
+8,short sleeve,12,2019,02,google,124,10,12
+9,short sleeve,9,2019,03,google,124,10,12
+10,short sleeve,7,2019,04,google,124,10,12
+11,short sleeve,18,2019,05,google,124,10,12
+12,mesh,0,2018,06,google,675,56,12
+13,mesh,81,2018,07,google,675,56,12
+14,mesh,49,2018,08,google,675,56,12
+15,mesh,61,2018,09,google,675,56,12
+16,mesh,56,2018,10,google,675,56,12
+17,mesh,49,2018,11,google,675,56,12
+18,mesh,34,2018,12,google,675,56,12
+19,mesh,46,2019,01,google,675,56,12
+20,mesh,66,2019,02,google,675,56,12
+21,mesh,73,2019,03,google,675,56,12
+22,mesh,54,2019,04,google,675,56,12
+23,mesh,68,2019,05,google,675,56,12
+24,striped,0,2018,06,google,2260,188,12
+25,striped,25,2018,07,google,2260,188,12
+26,striped,43,2018,08,google,2260,188,12
+27,striped,76,2018,09,google,2260,188,12
+28,striped,118,2018,10,google,2260,188,12
+29,striped,55,2018,11,google,2260,188,12
+30,striped,151,2018,12,google,2260,188,12
+31,striped,255,2019,01,google,2260,188,12
+32,striped,332,2019,02,google,2260,188,12
+33,striped,404,2019,03,google,2260,188,12
+34,striped,347,2019,04,google,2260,188,12
+35,striped,359,2019,05,google,2260,188,12
+36,short sleeve,0,2018,06,youtube,1,1,1
+37,short sleeve,0,2018,07,youtube,1,1,1
+38,short sleeve,0,2018,08,youtube,1,1,1
+39,short sleeve,0,2018,09,youtube,1,1,1
+40,short sleeve,1,2018,10,youtube,1,1,1
+41,short sleeve,0,2018,11,youtube,1,1,1
+42,short sleeve,0,2018,12,youtube,1,1,1
+43,short sleeve,0,2019,01,youtube,1,1,1
+44,short sleeve,0,2019,02,youtube,1,1,1
+45,short sleeve,0,2019,03,youtube,1,1,1
+46,short sleeve,0,2019,04,youtube,1,1,1
+47,short sleeve,0,2019,05,youtube,1,1,1

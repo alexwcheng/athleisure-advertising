@@ -1,0 +1,97 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,striped,0,2018,06,google,2260,188,12
+1,striped,25,2018,07,google,2260,188,12
+2,striped,43,2018,08,google,2260,188,12
+3,striped,76,2018,09,google,2260,188,12
+4,striped,118,2018,10,google,2260,188,12
+5,striped,55,2018,11,google,2260,188,12
+6,striped,151,2018,12,google,2260,188,12
+7,striped,255,2019,01,google,2260,188,12
+8,striped,332,2019,02,google,2260,188,12
+9,striped,404,2019,03,google,2260,188,12
+10,striped,347,2019,04,google,2260,188,12
+11,striped,359,2019,05,google,2260,188,12
+12,stripes,0,2018,06,google,925,77,12
+13,stripes,95,2018,07,google,925,77,12
+14,stripes,157,2018,08,google,925,77,12
+15,stripes,88,2018,09,google,925,77,12
+16,stripes,77,2018,10,google,925,77,12
+17,stripes,63,2018,11,google,925,77,12
+18,stripes,30,2018,12,google,925,77,12
+19,stripes,63,2019,01,google,925,77,12
+20,stripes,92,2019,02,google,925,77,12
+21,stripes,74,2019,03,google,925,77,12
+22,stripes,59,2019,04,google,925,77,12
+23,stripes,80,2019,05,google,925,77,12
+24,3 stripes,0,2018,06,google,27,2,8
+25,3 stripes,8,2018,07,google,27,2,8
+26,3 stripes,2,2018,08,google,27,2,8
+27,3 stripes,2,2018,09,google,27,2,8
+28,3 stripes,5,2018,10,google,27,2,8
+29,3 stripes,0,2018,11,google,27,2,8
+30,3 stripes,0,2018,12,google,27,2,8
+31,3 stripes,0,2019,01,google,27,2,8
+32,3 stripes,3,2019,02,google,27,2,8
+33,3 stripes,4,2019,03,google,27,2,8
+34,3 stripes,2,2019,04,google,27,2,8
+35,3 stripes,1,2019,05,google,27,2,8
+36,striped,0,2018,06,youtube,19934,1662,12
+37,striped,0,2018,07,youtube,19934,1662,12
+38,striped,0,2018,08,youtube,19934,1662,12
+39,striped,4,2018,09,youtube,19934,1662,12
+40,striped,109,2018,10,youtube,19934,1662,12
+41,striped,5,2018,11,youtube,19934,1662,12
+42,striped,490,2018,12,youtube,19934,1662,12
+43,striped,989,2019,01,youtube,19934,1662,12
+44,striped,4157,2019,02,youtube,19934,1662,12
+45,striped,5730,2019,03,youtube,19934,1662,12
+46,striped,4807,2019,04,youtube,19934,1662,12
+47,striped,3643,2019,05,youtube,19934,1662,12
+48,stripes,0,2018,06,youtube,42192,3516,12
+49,stripes,5730,2018,07,youtube,42192,3516,12
+50,stripes,3467,2018,08,youtube,42192,3516,12
+51,stripes,3467,2018,09,youtube,42192,3516,12
+52,stripes,4807,2018,10,youtube,42192,3516,12
+53,stripes,2740,2018,11,youtube,42192,3516,12
+54,stripes,2001,2018,12,youtube,42192,3516,12
+55,stripes,4323,2019,01,youtube,42192,3516,12
+56,stripes,5120,2019,02,youtube,42192,3516,12
+57,stripes,4323,2019,03,youtube,42192,3516,12
+58,stripes,3107,2019,04,youtube,42192,3516,12
+59,stripes,3107,2019,05,youtube,42192,3516,12
+60,3 stripes,0,2018,06,youtube,1,1,5
+61,3 stripes,0,2018,07,youtube,1,1,5
+62,3 stripes,0,2018,08,youtube,1,1,5
+63,3 stripes,0,2018,09,youtube,1,1,5
+64,3 stripes,0,2018,10,youtube,1,1,5
+65,3 stripes,0,2018,11,youtube,1,1,5
+66,3 stripes,1,2018,12,youtube,1,1,5
+67,3 stripes,0,2019,01,youtube,1,1,5
+68,3 stripes,0,2019,02,youtube,1,1,5
+69,3 stripes,0,2019,03,youtube,1,1,5
+70,3 stripes,0,2019,04,youtube,1,1,5
+71,3 stripes,0,2019,05,youtube,1,1,5
+72,striped,0,2018,06,amazon,6621,552,12
+73,striped,187,2018,07,amazon,6621,552,12
+74,striped,337,2018,08,amazon,6621,552,12
+75,striped,187,2018,09,amazon,6621,552,12
+76,striped,187,2018,10,amazon,6621,552,12
+77,striped,16,2018,11,amazon,6621,552,12
+78,striped,507,2018,12,amazon,6621,552,12
+79,striped,337,2019,01,amazon,6621,552,12
+80,striped,1444,2019,02,amazon,6621,552,12
+81,striped,1638,2019,03,amazon,6621,552,12
+82,striped,1444,2019,04,amazon,6621,552,12
+83,striped,337,2019,05,amazon,6621,552,12
+84,stripes,0,2018,06,amazon,3818,319,10
+85,stripes,1834,2018,07,amazon,3818,319,10
+86,stripes,873,2018,08,amazon,3818,319,10
+87,stripes,507,2018,09,amazon,3818,319,10
+88,stripes,337,2018,10,amazon,3818,319,10
+89,stripes,16,2018,11,amazon,3818,319,10
+90,stripes,0,2018,12,amazon,3818,319,10
+91,stripes,16,2019,01,amazon,3818,319,10
+92,stripes,16,2019,02,amazon,3818,319,10
+93,stripes,16,2019,03,amazon,3818,319,10
+94,stripes,187,2019,04,amazon,3818,319,10
+95,stripes,16,2019,05,amazon,3818,319,10

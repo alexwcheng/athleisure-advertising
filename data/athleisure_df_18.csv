@@ -1,0 +1,109 @@
+,keyword,volume,year,month,engine,total_volume_for_last_12_months,avg_volume_for_last_12_months,total_months_seen
+0,scoop neck,0,2018,06,google,95,8,12
+1,scoop neck,12,2018,07,google,95,8,12
+2,scoop neck,19,2018,08,google,95,8,12
+3,scoop neck,16,2018,09,google,95,8,12
+4,scoop neck,7,2018,10,google,95,8,12
+5,scoop neck,5,2018,11,google,95,8,12
+6,scoop neck,5,2018,12,google,95,8,12
+7,scoop neck,4,2019,01,google,95,8,12
+8,scoop neck,5,2019,02,google,95,8,12
+9,scoop neck,2,2019,03,google,95,8,12
+10,scoop neck,4,2019,04,google,95,8,12
+11,scoop neck,2,2019,05,google,95,8,12
+12,v neck,0,2018,06,google,72,6,12
+13,v neck,6,2018,07,google,72,6,12
+14,v neck,10,2018,08,google,72,6,12
+15,v neck,2,2018,09,google,72,6,12
+16,v neck,5,2018,10,google,72,6,12
+17,v neck,9,2018,11,google,72,6,12
+18,v neck,4,2018,12,google,72,6,12
+19,v neck,9,2019,01,google,72,6,12
+20,v neck,5,2019,02,google,72,6,12
+21,v neck,7,2019,03,google,72,6,12
+22,v neck,6,2019,04,google,72,6,12
+23,v neck,7,2019,05,google,72,6,12
+24,raglan,0,2018,06,google,251,21,12
+25,raglan,19,2018,07,google,251,21,12
+26,raglan,43,2018,08,google,251,21,12
+27,raglan,11,2018,09,google,251,21,12
+28,raglan,25,2018,10,google,251,21,12
+29,raglan,32,2018,11,google,251,21,12
+30,raglan,14,2018,12,google,251,21,12
+31,raglan,21,2019,01,google,251,21,12
+32,raglan,19,2019,02,google,251,21,12
+33,raglan,22,2019,03,google,251,21,12
+34,raglan,15,2019,04,google,251,21,12
+35,raglan,12,2019,05,google,251,21,12
+36,scoop neck,0,2018,06,youtube,1,1,2
+37,scoop neck,0,2018,07,youtube,1,1,2
+38,scoop neck,0,2018,08,youtube,1,1,2
+39,scoop neck,0,2018,09,youtube,1,1,2
+40,scoop neck,1,2018,10,youtube,1,1,2
+41,scoop neck,0,2018,11,youtube,1,1,2
+42,scoop neck,0,2018,12,youtube,1,1,2
+43,scoop neck,0,2019,01,youtube,1,1,2
+44,scoop neck,0,2019,02,youtube,1,1,2
+45,scoop neck,0,2019,03,youtube,1,1,2
+46,scoop neck,0,2019,04,youtube,1,1,2
+47,scoop neck,0,2019,05,youtube,1,1,2
+48,v neck,0,2018,06,youtube,3,1,3
+49,v neck,2,2018,07,youtube,3,1,3
+50,v neck,0,2018,08,youtube,3,1,3
+51,v neck,1,2018,09,youtube,3,1,3
+52,v neck,0,2018,10,youtube,3,1,3
+53,v neck,0,2018,11,youtube,3,1,3
+54,v neck,0,2018,12,youtube,3,1,3
+55,v neck,0,2019,01,youtube,3,1,3
+56,v neck,0,2019,02,youtube,3,1,3
+57,v neck,0,2019,03,youtube,3,1,3
+58,v neck,0,2019,04,youtube,3,1,3
+59,v neck,0,2019,05,youtube,3,1,3
+60,raglan,0,2018,06,youtube,10,1,9
+61,raglan,0,2018,07,youtube,10,1,9
+62,raglan,0,2018,08,youtube,10,1,9
+63,raglan,3,2018,09,youtube,10,1,9
+64,raglan,1,2018,10,youtube,10,1,9
+65,raglan,0,2018,11,youtube,10,1,9
+66,raglan,1,2018,12,youtube,10,1,9
+67,raglan,1,2019,01,youtube,10,1,9
+68,raglan,0,2019,02,youtube,10,1,9
+69,raglan,2,2019,03,youtube,10,1,9
+70,raglan,0,2019,04,youtube,10,1,9
+71,raglan,2,2019,05,youtube,10,1,9
+72,scoop neck,0,2018,06,amazon,758,64,7
+73,scoop neck,507,2018,07,amazon,758,64,7
+74,scoop neck,16,2018,08,amazon,758,64,7
+75,scoop neck,16,2018,09,amazon,758,64,7
+76,scoop neck,0,2018,10,amazon,758,64,7
+77,scoop neck,0,2018,11,amazon,758,64,7
+78,scoop neck,0,2018,12,amazon,758,64,7
+79,scoop neck,16,2019,01,amazon,758,64,7
+80,scoop neck,0,2019,02,amazon,758,64,7
+81,scoop neck,0,2019,03,amazon,758,64,7
+82,scoop neck,187,2019,04,amazon,758,64,7
+83,scoop neck,16,2019,05,amazon,758,64,7
+84,v neck,0,2018,06,amazon,13343,1112,12
+85,v neck,187,2018,07,amazon,13343,1112,12
+86,v neck,2033,2018,08,amazon,13343,1112,12
+87,v neck,1061,2018,09,amazon,13343,1112,12
+88,v neck,1638,2018,10,amazon,13343,1112,12
+89,v neck,873,2018,11,amazon,13343,1112,12
+90,v neck,1638,2018,12,amazon,13343,1112,12
+91,v neck,1061,2019,01,amazon,13343,1112,12
+92,v neck,873,2019,02,amazon,13343,1112,12
+93,v neck,1638,2019,03,amazon,13343,1112,12
+94,v neck,507,2019,04,amazon,13343,1112,12
+95,v neck,1834,2019,05,amazon,13343,1112,12
+96,raglan,0,2018,06,amazon,1056,88,9
+97,raglan,187,2018,07,amazon,1056,88,9
+98,raglan,73,2018,08,amazon,1056,88,9
+99,raglan,16,2018,09,amazon,1056,88,9
+100,raglan,187,2018,10,amazon,1056,88,9
+101,raglan,0,2018,11,amazon,1056,88,9
+102,raglan,187,2018,12,amazon,1056,88,9
+103,raglan,16,2019,01,amazon,1056,88,9
+104,raglan,0,2019,02,amazon,1056,88,9
+105,raglan,16,2019,03,amazon,1056,88,9
+106,raglan,187,2019,04,amazon,1056,88,9
+107,raglan,187,2019,05,amazon,1056,88,9
