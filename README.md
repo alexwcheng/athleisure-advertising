@@ -50,7 +50,7 @@ The goals for the project are as follows:
 ### Project Responsibilities
 The project responsibilities are broken down as follows:
 
-Alex Cheng
+#### Alex Cheng
    -  SHARED - the technical Jupyter notebook - with narrative comments.
    -  The README.md.
    -  Testing code for successful calls to Wordtracker API.
@@ -59,7 +59,7 @@ Alex Cheng
    -  ???
    -  ???
 
-Justin Fleury
+#### Justin Fleury
    -  SHARED - the technical Jupyter notebook - with narrative comments.
    -  Pulling all results from Wordtracker API to generate the final joined and cleaned dataframe to use for analysis.
    -  ???
