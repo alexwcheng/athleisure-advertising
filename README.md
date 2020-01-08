@@ -1,5 +1,4 @@
 # Athleisure Ads Strategy
-
 This README.md lists project members, goals, responsibilities, and a summary of the files in the repository.
 
 ### Project File Summary
@@ -34,34 +33,32 @@ The goals for the project are as follows:
    -  Generate 3 null and alternative hypotheses to test and answer the 3 questions.
    -  Find and select a source of data to draw from and analyze (Wordtracker).
    -  Use API to understand database stats for Google, Youtube, and Amazon search volume.
-   -  Generate a list of popular athleisure-related keywords (search "athleisure" on Amazon, and find about 100 terms associated with athleisure products on the first few pages of "featured" results).
-   -  Call search volume by month, and totals for each keyword on the list from the Wordtracker API.
-   -  ???
-   -  ???
-   -  ???
-   -  ???
-   -  ???
-   -  ???
-   -  Statistical testing
-   -  Get confidence intervals.
-   -  Export visualizations for each hypothesis test to "tell the story" of our findings.
-   -  Create a presentation to translate data analysis into actionable insights. 
+   -  Generate a list of popular athleisure-related keywords (searched "athleisure" on Amazon, and found 77 terms associated with athleisure products on the first few pages of "featured" results).
+   -  Call search volume by month, and totals for each keyword on the list from the Wordtracker API - split calls into small pieces so as not to go over the API call trial-account limit.
+   -  Merge all API calls into one raw dataframe.
+   -  Clean data, calculate June values and impute into the dataframe (for some reason June values came in as "0" from the API).
+   -  Perform Exploratory Data Analysis (EDA) to investigate the data. Find total search volume for each search engine. Find average and total search volumes for each keyword across all search engines. Develop "wordclouds". Plot PDF and CDF for total keyword search volume across all search engines.
+   -  Perform statistical testing on each of the 3 hypotheses (keywords, month, & search engine) via one-way Analysis Of Variance (ANOVA) with an established alpha value of 0.05 to find significant results compared to each other. Run Tukey test after that to find out specifically which results are different compared to each other.
+   -  Perform 3-way ANOVA between keywords, month, and search engine with an established alpha value of 0.05. Run Tukey test after that to find out specifically which results are different compared to each other.
+   -  Create a presentation to translate EDA and statistical testing into actionable insights for the online athleisure clothing startup. 
 
 ### Project Responsibilities
 The project responsibilities are broken down as follows:
 
 #### Alex Cheng
-   -  SHARED - the technical Jupyter notebook - with narrative comments.
-   -  The README.md.
-   -  Testing code for successful calls to Wordtracker API.
-   -  Final project presentation pdf assembly + export.
-   -  ???
-   -  ???
-   -  ???
+   -  SHARED - The README.md.
+   -  SHARED - Project Overview Jupyter Notebook.
+   -  SHARED - Wordtracker Data Extraction Jupyter Notebook.
+   -  SHARED - Exploratory Data Analysis Jupyter Notebook.
+   -  SHARED - Data Cleaning Jupyter Notebook.
+   -  SHARED - Statistical Testing Jupyter Notebook.
+   -  SHARED - Final project presentation design + export.
 
 #### Justin Fleury
-   -  SHARED - the technical Jupyter notebook - with narrative comments.
-   -  Pulling all results from Wordtracker API to generate the final joined and cleaned dataframe to use for analysis.
-   -  ???
-   -  ???
-   -  ???
+   -  SHARED - The README.md.
+   -  SHARED - Project Overview Jupyter Notebook.
+   -  SHARED - Wordtracker Data Extraction Jupyter Notebook.
+   -  SHARED - Exploratory Data Analysis Jupyter Notebook.
+   -  SHARED - Data Cleaning Jupyter Notebook.
+   -  SHARED - Statistical Testing Jupyter Notebook.
+   -  SHARED - Final project presentation design + export.
