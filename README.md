@@ -6,8 +6,8 @@ Within the project repository, the summary of files are as follows:
    - <b>README.md</b> - a summary of all contents in this repository.
    - <b>/data</b> - all data called from the Wordtracker API saved out as .csv files (except for the final .csv file "athleisure.csv", which lives  in the main directory).
    - <b>/images</b> - all plots from data analysis.
-   - <b>jupyter_notebook</b> - all Jupyter Notebooks generated for this project.
-   - <b>project_prompt</b> - the prompt for this project.
+   - <b>/jupyter_notebook</b> - all Jupyter Notebooks generated for this project.
+   - <b>/project_prompt</b> - the prompt for this project.
    - <b>Athleisure Ads Strategy.pdf</b> - the final presentation for this project.
    - <b>athleisure.csv</b> - the final dataset for this project, extracted and merged together from the Wordtracker API.
 
