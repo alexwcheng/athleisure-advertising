@@ -14,8 +14,8 @@ Within the project repository, the summary of files are as follows:
 ### Project Members
 The members for this project are:
 
-   - Alex Cheng
-   - Justin Fleury
+   - [Alex Cheng](https://github.com/alexwcheng)
+   - [Justin Fleury](https://github.com/jfleury20)
 
 ### Project Scenario
 The scenario for the project is as follows:
