@@ -1,5 +1,4 @@
-# Athleisure Ads Strategy
-This README.md lists project members, goals, responsibilities, and a summary of the files in the repository.
+# Athleisure Advertising Strategy
 
 ### Project File Summary
 Within the project repository, the summary of files are as follows:
@@ -11,12 +10,14 @@ Within the project repository, the summary of files are as follows:
    - <b>[Athleisure Ads Strategy.pdf](https://github.com/jfleury20/athleisure-ads-strategy/blob/master/Athleisure%20Ads%20Strategy.pdf)</b> - the final presentation for this project.
    - <b>[athleisure.csv](athleisure.csv)</b> - the final dataset for this project, extracted and merged together from the Wordtracker API.
 
+#
 ### Project Members
 The members for this project are:
 
    - <b>[Alex Cheng](https://github.com/alexwcheng)</b>
    - <b>[Justin Fleury](https://github.com/jfleury20)</b>
 
+#
 ### Project Scenario
 The scenario for the project is as follows:
 
@@ -26,12 +27,14 @@ Our client is a startup online clothing company that specializes in "athleisure"
    - Which month are consumers searching for athleisure clothing most?
    - Which platform are consumers using most for their searches?
 
+#
 ### Project Goals
 The goals for the project are as follows:
 
    -  Based on our findings, we will provide at least 3 confident recommendations to the athleisure startup company's marketing team to figure out the best keywords, best timing, and best platform to run their ads.
    -  We will arrive at these recommendations by analyzing data from Wordtracker - a paid database service with a representative sample of Google, Youtube, and Amazon search query data volume for a 1-year period between June 2018 and May 2019.
 
+#
 ### Methodology 
    -  Generate business application (online ad strategy to promote athleisure clothing).
    -  Generate 3 questions related to business application.
@@ -47,6 +50,7 @@ The goals for the project are as follows:
    -  Perform 3-way ANOVA between keywords, month, and search engine with an established alpha value of 0.05. Run Tukey test after that to find out specifically which results are different compared to each other.
    -  Create a presentation to translate EDA and statistical testing into actionable insights for the online athleisure clothing startup. 
 
+#
 ### Project Responsibilities
 The project responsibilities are broken down as follows:
 
