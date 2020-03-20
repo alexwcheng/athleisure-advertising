@@ -52,22 +52,5 @@ The goals for the project are as follows:
 
 #
 ### Project Responsibilities
-The project responsibilities are broken down as follows:
 
-#### Alex Cheng
-   -  SHARED - The README.md.
-   -  SHARED - Project Overview Jupyter Notebook.
-   -  SHARED - Wordtracker Data Extraction Jupyter Notebook.
-   -  SHARED - Exploratory Data Analysis Jupyter Notebook.
-   -  SHARED - Data Cleaning Jupyter Notebook.
-   -  SHARED - Statistical Testing Jupyter Notebook.
-   -  SHARED - Final project presentation design + export.
-
-#### Justin Fleury
-   -  SHARED - The README.md.
-   -  SHARED - Project Overview Jupyter Notebook.
-   -  SHARED - Wordtracker Data Extraction Jupyter Notebook.
-   -  SHARED - Exploratory Data Analysis Jupyter Notebook.
-   -  SHARED - Data Cleaning Jupyter Notebook.
-   -  SHARED - Statistical Testing Jupyter Notebook.
-   -  SHARED - Final project presentation design + export.
+   -  All project responsibilities were shared equally between <b>[Alex Cheng](https://github.com/alexwcheng)</b> and <b>[Justin Fleury](https://github.com/jfleury20)</b>.
