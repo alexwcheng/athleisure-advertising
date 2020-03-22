@@ -114,12 +114,49 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 #
 ### Conclusions
 
+**Keywords:**
+
+- We recommend that the ad campaign use these 5 buzzwords:
+   - "hoodie"
+   - "running"
+   - "sweatshirt"
+   - "workout"
+   - "flex"
+
+On average, these 5 keywords vastly outperform any other athleisure-related keyword tested across all platforms and months. 
+
+**Platform**
+
+- We recommend that the ad campaign is **not launched on the Google,** because it has the lowest search volume for athleisure-related keyword.
+- If **search volume** is most important, then we recommend **YouTube.**
+- If **market share** is most important, then we recommend **Amazon.**
+
+**Month**
+
+- The month by itself is not a statistically significant enough of a factor to provide a confident recommendation. 
+- Month should only be considered as a factor when combined with a particular platform and set of keywords. 
+
+So, at the end of the day, below are the top 10 keyword / platform combinations that we would recommend to our athleisure clothing startup company to help them guide their advertising efforts online. Note that Google is not recommended as a platform to run athleisure advertisements.
+
 ![Recommendations](/images/Slides/Recommendations.png)
 
 #
-### Future Work
+### Improvements + Future Work
 
-Future studies that may be helpful to improve the accuracy of these results:
+**Improvements**
+
+Some assumptions that could have been improved:
+
+- Ensure all word types being tested are similar.
+   - For example, use all nouns, or all adjectives, etc…
+- Limit results to clothing-related searches.
+   - For example, consider pairing an “athleisure” related adjective to an article of clothing - ex: “breathable hoodie”, “ventilated shorts”, “striped joggers”, etc…
+- Ensure all platforms being compared are the same in the service that they provide for better accuracy.
+   - For example, compare Google to Bing, or YouTube and Vimeo, or Amazon and Ebay.
+
+**Future Work**
+
+Some future studies that may be helpful to improve the accuracy of these results:
 
 - Explore search volume demographic statistics of each engine.
    - For example: age, gender, or income.
