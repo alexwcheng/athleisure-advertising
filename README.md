@@ -1,7 +1,7 @@
 # Athleisure Advertising Strategy
 
 ### Project File Summary
-Within the project repository, the summary of files are as follows:
+
    - <b>[README.md](README.md)</b> - a summary of all contents in this repository.
    - <b>[data](/data)</b> - all data called from the Wordtracker API saved out as .csv files.
    - <b>[images](/images)</b> - all plots from data analysis.
@@ -12,7 +12,6 @@ Within the project repository, the summary of files are as follows:
 
 #
 ### Project Members
-The members for this project are:
 
    - <b>[Alex Cheng](https://github.com/alexwcheng)</b>
    - <b>[Justin Fleury](https://github.com/jfleury20)</b>
@@ -127,7 +126,7 @@ On average, these 5 keywords vastly outperform any other athleisure-related keyw
 
 **Platform**
 
-- We recommend that the ad campaign is **not launched on the Google,** because it has the lowest search volume for athleisure-related keyword.
+- Ads should **not be launched on Google,** because it has the lowest search volume for athleisure-related keywords.
 - If **search volume** is most important, then we recommend **YouTube.**
 - If **market share** is most important, then we recommend **Amazon.**
 
