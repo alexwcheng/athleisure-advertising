@@ -3,7 +3,7 @@
 ### Project File Summary
 Within the project repository, the summary of files are as follows:
    - <b>[README.md](README.md)</b> - a summary of all contents in this repository.
-   - <b>[data](/data)</b> - all data called from the Wordtracker API saved out as .csv files (except for the final .csv file "athleisure.csv", which lives  in the main directory).
+   - <b>[data](/data)</b> - all data called from the Wordtracker API saved out as .csv files.
    - <b>[images](/images)</b> - all plots from data analysis.
    - <b>[jupyter notebook](https://github.com/jfleury20/athleisure-ads-strategy/tree/master/jupyter_notebook)</b> - all Jupyter Notebooks generated for this project.
    - <b>[project_prompt](/project_prompt)</b> - the prompt for this project.
@@ -44,7 +44,9 @@ The goals for the project are as follows:
 
 Our data source is [Wordtracker](https://www.wordtracker.com/) - a paid database service for **Search Engine Optimization (SEO).** Search Engine Optimization is essentially just another way of saying: *“I want to figure out how make my website the top result for a given search.”*
 
-Wordtracker helps clients to get more traffic to their website or better understand what consumers are searching for. Wordtracker is similar to Google Keywords Planner service, but allows access to search data on platforms beyond Google. Wordtracker offers a 1-year representative sample of search data from June 2018-May 2019 on Google, Youtube, Amazon, and Ebay. It provides over 2 billion unique keywords from 18 million global panelists, across 106 countries.
+Wordtracker helps clients to get more traffic to their website or better understand what consumers are searching for. Wordtracker is similar to Google Keywords Planner service, but allows access to search data on platforms beyond Google. Wordtracker offers a 1-year representative sample of search data from June 2018-May 2019 on Google, Youtube, Amazon, and Ebay. It provides over 2 billion unique keywords from 18 million global panelists, across 106 countries. Below is a synopsis of all data in the Wordtracker database related to search volume in the United States.
+
+![Wordtracker_US_Database](/images/Slides/Wordtracker_US_Database.png)
 
 So for our study, we pulled data from Wordtracker with the following constraints:
 
@@ -55,6 +57,8 @@ So for our study, we pulled data from Wordtracker with the following constraints
 According to [Search Engine Journal](https://www.searchenginejournal.com/seo-101/meet-search-engines/) - Google, YouTube, and Amazon are the three most popular search engines worldwide. According to [Bluelist](https://bluelist.co/blog/google-stats-and-facts/) in 2019 there are about 2 trillion Google searches per year. Wordtracker provides nearly 2 billion Google searches within a 1 year timeframe. **We assume that Wordtracker represents a sample roughly 1/1000th of the entire Google search database worldwide.**
 
 Below is the method of how we decided on which terms related to "athleisure" to select for our search volume queries. We searched "athleisure" on Amazon, and found all of the most frequently occuring terms in the results.
+
+![Amazon_Keywords](/images/Slides/Amazon_Keywords.png)
 
 # 
 ### Data Collection Process
@@ -74,6 +78,18 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 
    -  Perform Exploratory Data Analysis (EDA) to investigate the data. Find total search volume for each search engine. Find average and total search volumes for each keyword across all search engines. Develop "wordclouds". Plot PDF and CDF for total keyword search volume across all search engines.
    
+![Wordcloud_Google](/images/Slides/Wordcloud_Google.png)
+
+![Wordcloud_Youtube](/images/Slides/Wordcloud_Youtube.png)
+
+![Wordcloud_Amazon](/images/Slides/Wordcloud_Amazon.png)
+
+![Month_Lineplot](/images/Slides/Month_Lineplot.png)
+
+![Keywords_Bar_Plot](/images/Slides/Keywords_Bar_Plot.png)
+
+![Search_Ratio_Bar_Plots](/images/Slides/Search_Ratio_Bar_Plots.png)
+
 #
 ### Data Preprocessing
 
@@ -97,6 +113,8 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 
 #
 ### Conclusions
+
+![Recommendations](/images/Slides/Recommendations.png)
 
 #
 ### Future Work
