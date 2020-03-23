@@ -213,14 +213,13 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
 
 **Keywords:**
 
+- There were 5 keywords that outperform any other athleisure-related keyword tested across all platforms and months.
 - We recommend that the ad campaign use these 5 buzzwords:
    - "hoodie"
    - "running"
    - "sweatshirt"
    - "workout"
    - "flex"
-
-On average, these 5 keywords vastly outperform any other athleisure-related keyword tested across all platforms and months. 
 
 **Platform**
 
