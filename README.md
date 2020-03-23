@@ -195,18 +195,18 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
 - Keyword/Month and Engine/Month are not statistically different from each other.
 
 **Tukey Test Result:**
-From the Tukey Test, there were 10 Keyword/Engine combinations that were significantly different in search volume than the rest of the combinations. These 10 unique combinations will be our recommendations to our client.
-
-- "running" / youtube
-- "hoodie" / youtube
-- "sweatshirt" / youtube
-- "workout" / amazon
-- "flex" / youtube
-- "hoodie" / amazon
-- "leggings" / amazon
-- "workout" / youtube
-- "joggers" / amazon
-- "cotton" / youtube
+- There were 10 Keyword/Engine combinations that were significantly different in search volume.
+- These 10 unique combinations will be our recommendations to our client.
+   - "running" / youtube
+   - "hoodie" / youtube
+   - "sweatshirt" / youtube
+   - "workout" / amazon
+   - "flex" / youtube
+   - "hoodie" / amazon
+   - "leggings" / amazon
+   - "workout" / youtube
+   - "joggers" / amazon
+   - "cotton" / youtube
 
 #
 ### Conclusions
