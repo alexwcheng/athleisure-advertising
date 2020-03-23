@@ -41,7 +41,7 @@ The goals for the project are as follows:
 #
 ### Data
 
-Our data source is [Wordtracker](https://www.wordtracker.com/) - a paid database service for **Search Engine Optimization (SEO).** Search Engine Optimization is essentially just another way of saying: *“I want to figure out how make my website the top result for a given search.”*
+Our data source is **[Wordtracker](https://www.wordtracker.com/)** - a paid database service for **Search Engine Optimization (SEO).** Search Engine Optimization is essentially just another way of saying: *“I want to figure out how make my website the top result for a given search.”*
 
 Wordtracker helps clients to get more traffic to their website or better understand what consumers are searching for. Wordtracker is similar to Google Keywords Planner service, but allows access to search data on platforms beyond Google. Wordtracker offers a 1-year representative sample of search data from June 2018-May 2019 on Google, Youtube, Amazon, and Ebay. It provides over 2 billion unique keywords from 18 million global panelists, across 106 countries. Below is a synopsis of all data in the Wordtracker database related to search volume in the United States.
 
@@ -53,7 +53,7 @@ So for our study, we pulled data from Wordtracker with the following constraints
 - **Search volumes only in the United States.**
 - **Search volume data pulled from Google, YouTube, and Amazon engines.**
 
-According to [Search Engine Journal](https://www.searchenginejournal.com/seo-101/meet-search-engines/) - Google, YouTube, and Amazon are the three most popular search engines worldwide. According to [Bluelist](https://bluelist.co/blog/google-stats-and-facts/) in 2019 there are about 2 trillion Google searches per year. Wordtracker provides nearly 2 billion Google searches within a 1 year timeframe. **We assume that Wordtracker represents a sample roughly 1/1000th of the entire Google search database worldwide.**
+According to **[Search Engine Journal](https://www.searchenginejournal.com/seo-101/meet-search-engines/)** - Google, YouTube, and Amazon are the three most popular search engines worldwide. According to **[Bluelist](https://bluelist.co/blog/google-stats-and-facts/)** in 2019 there are about 2 trillion Google searches per year. Wordtracker provides nearly 2 billion Google searches within a 1 year timeframe. **We assume that Wordtracker represents a sample roughly 1/1000th of the entire Google search database worldwide.**
 
 Below is the method of how we decided on which terms related to "athleisure" to select for our search volume queries. We searched "athleisure" on Amazon, and found all of the most frequently occuring terms in the results.
 
@@ -75,22 +75,28 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 #
 ### Exploratory Data Analysis
 
-   -  Perform Exploratory Data Analysis (EDA) to investigate the data. Find total search volume for each search engine. Find average and total search volumes for each keyword across all search engines. Develop "wordclouds". Plot PDF and CDF for total keyword search volume across all search engines.
-   
+A collection of wordclouds provide a non-technical, graphic sense of scale to understand the most searched athleisure terms in each search engine. The larger the keyword appears in the wordcloud, then the more that keyword was searched compared to the others. 
+
 ![Wordcloud_Google](/images/Slides/Wordcloud_Google.png)
 
 ![Wordcloud_Youtube](/images/Slides/Wordcloud_Youtube.png)
 
 ![Wordcloud_Amazon](/images/Slides/Wordcloud_Amazon.png)
 
+This lineplot shows how often athleisure keywords are searched on average over each month of the year. There seems to be a higher number of searches in the colder months than in the warmer months, with the peak being in December.
+
 ![Month_Lineplot](/images/Slides/Month_Lineplot.png)
 
+When we aggregated search volume for all of our athleisure-related keywords across all three search engines (Google + YouTube + Amazon) we noticed that the keyword **"hoodie" was the most searched term, with 1,300,000 searches.** This is followed by "sweatshirt", "running", "workout", and "flex", all with several hundred thousand searches. Across all 77 keywords that were considered, the **average number of searches is about 100,000.**
+
 ![Keywords_Bar_Plot](/images/Slides/Keywords_Bar_Plot.png)
+
+In observing metrics on each search engine, we found that Amazon and YouTube have a very low total search volume compared to Google. In the barplot on the left, we can see that Google has nearly 600,000,000 total searches, while Amazon and YouTube combined are less than 100,000,000. However, in the barplot on the right, we can see the search ratio for athleisure-related terms, compared to all searches on each search engine. So even though Amazon has the lowest overall search volume, it has by far the highest ratio for athleisure-related terms. **Over 25% of all searches on Amazon are related to athleisure keywords!** In comparison, 5% of searches on YouTube are related to athleisure keywords. And less than 1% of searches on Google are related to athleisure keywords. **These findings suggest that Amazon and Youtube may be better places to run ads rather than Google, since people are clearly searching athleisure keywords more often on those platforms.**
 
 ![Search_Ratio_Bar_Plots](/images/Slides/Search_Ratio_Bar_Plots.png)
 
 #
-### Statistical Testing Methodology
+### Statistical Testing
 
 **Alpha Value**
 
@@ -100,7 +106,7 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 - Alpha values typically range between 0.01, and 0.1.
 
 **ANOVA**
-- One-Way Analysis Of Variance (ANOVA) was the statistical test of choice for our use case.
+- One-Way Analysis Of Variance (ANOVA) was our statistical test of choice, since we are dealing with multiple groups.
 - Two-Way ANOVA was also used later on to determine which combinations of factors were statistically significant.
 - Three-Way ANOVA was attempted, but was unable to run due to lack of processing power.
 
@@ -119,7 +125,7 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 - HA1 - Some athleisure-related keywords have greater average search volumes than others.
 
 **One-Way ANOVA Result:**
-- P-Value = 1.3293563590514185e-119 (This is nearly zero.)
+- P-Value = 1.3293563590514185e-119 < 0.05 (This is nearly zero.)
 - We reject the null hypothesis that mean search volume is equal across all athleisure-related keywords.
 - Keyword on its own, does indeed constitute a difference in average search volume for athleisure-related items.
 
@@ -138,7 +144,7 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 - HA2- People will be more likely to search for activewear-related terms depending on the month.
 
 **One-Way ANOVA Result:**
-- P-Value = 0.8831258135517717
+- P-Value = 0.8831258135517717 > 0.05
 - We fail to reject the null hypothesis that mean search volume is equal across all months.
 - The month on its own, does not constitute a difference in search volumes for athleisure-related items.
 
@@ -153,7 +159,7 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 - HA3 - There will be a greater search volume for activewear-related terms on one particular platform.
    
 **One-Way ANOVA Result:**
-- P-Value = 7.19196465389629e-18 (This is nearly zero.)
+- P-Value = 7.19196465389629e-18 < 0.05 (This is nearly zero.) 
 - We reject the null hypothesis that mean search volume is equal across all search engines.
 - Search engine on its own, does indeed constitute a difference in average search volume for athleisure-related items.
 
@@ -171,7 +177,7 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
 - HA1 - Some keyword/engine combinations have greater mean search volume.
 
 **Two-Way ANOVA Result:**
-- P-Value = 1.008919e-151
+- P-Value = 1.008919e-151 < 0.05 (This is nearly zero.)
 - Reject the null hypothesis that the mean search volume is equal among all Keyword/Engine combinations.
 
 **Hypothesis Test 2: Keyword + Month**
@@ -179,7 +185,7 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
 - HA2 - Some keyword/month combinations have greater mean search volume.
 
 **Two-Way ANOVA Result:**
-- P-Value = 7.896266e-01
+- P-Value = 7.896266e-01 > 0.05
 - Fail to reject the null hypothesis that the mean search volume is equal among Keyword/Month combinations.
 
 **Hypothesis Test 3: Engine + Month**
@@ -187,7 +193,7 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
 - HA3 - Some engine/month combinations have greater mean search volume.
 
 **Two-Way ANOVA Result:**
-- P-Value = 7.789742e-01
+- P-Value = 7.789742e-01 > 0.05
 - Fail to reject the null hypothesis that the mean search volume is equal among Engine/Month combinations.
 
 **Conclusion**
