@@ -90,25 +90,123 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 ![Search_Ratio_Bar_Plots](/images/Slides/Search_Ratio_Bar_Plots.png)
 
 #
-### Data Preprocessing
+### Statistical Testing Methodology
+
+**Alpha Value**
+
+- **If alpha $\alpha$ < 0.05, then we reject the null hypothesis.**
+- **If alpha $\alpha$ >= 0.05, then we fail to reject the null hypothesis.**
+- This alpha value is not too lenient, nor is it too strict.
+- Alpha values typically range between 0.01, and 0.1.
+
+**ANOVA**
+- One-Way Analysis Of Variance (ANOVA) was the statistical test of choice for our use case.
+- Two-Way ANOVA was also used later on to determine which combinations of factors were statistically significant.
+- Three-Way ANOVA was attempted, but was unable to run due to lack of processing power.
+
+**Tukey Test**
+- The problem with ANOVA, is that it only compares the means between groups and determines if any of those means are statistically significantly different from each other.
+- In other words, ANOVA tells us if our results or significant or not, but does not tell us **where** the results are significant.
+- Interpretability of statistical significance is crucial to communicate to our client. We have to be able to tell them which keywords perform best, which search engine is best, or which month is best to run ads!
+- So, the Tukey Test allows us to interpret the statistical significance of our ANOVA test and find out which **specific** groups’s means (compared with each other) are different.
+- So, after performing each round of ANOVA, we followed up with a Tukey Test to find out where the statistical significance was occuring in our data.
 
 #
-### Statistical Testing
+### Hypothesis Test 1: Keywords
 
-   -  Generate 3 null and alternative hypotheses to test and answer the 3 questions.
+**Are there any differences between athleisure-related keywords when considering search volume?**
+- $H_{01}$ - All athleisure-related keywords are equal in terms of average search volume.
+- $H_{A1}$ - Some athleisure-related keywords have greater average search volumes than others.
+
+**One-Way ANOVA Result:**
+- P-Value = 1.3293563590514185e-119 (This is nearly zero.)
+- We reject the null hypothesis that mean search volume is equal across all athleisure-related keywords.
+- Keyword on its own, does indeed constitute a difference in average search volume for athleisure-related items.
+
+**Tukey Test Result:**
+- Top 5 terms that are the "most" statistically different than the rest are:
+   - "hoodie"
+   - "running"
+   - "sweatshirt"
+   - "workout"
+   - "flex"
+#
+### Hypothesis Test 2: Months
+
+**Are there any differences between months when considering search volume?**
+- $H_{02}$ - People will be equally likely to search for activewear-related terms in any given month.
+- $H_{A2}$ - People will be more likely to search for activewear-related terms depending on the month.
+
+**One-Way ANOVA Result:**
+- P-Value = 0.8831258135517717
+- We fail to reject the null hypothesis that mean search volume is equal across all months.
+- The month on its own, does not constitute a difference in search volumes for athleisure-related items.
+
+**Tukey Test Result:**
+- No need to run Tukey multiple comparisons test since we failed to reject the null hypothesis here.
+
+#
+### Hypothesis Test 3: Search Engine
+
+**Are there any differences among search engines when considering search volumes?**
+- $H_{03}$ - There will be an equal search volume for activewear-related terms on any platform.
+- $H_{A3}$ - There will be a greater search volume for activewear-related terms on one particular platform.
    
-   -  Perform statistical testing on each of the 3 hypotheses (keywords, month, & search engine) via one-way Analysis Of Variance (ANOVA) with an established alpha value of 0.05 to find significant results compared to each other. Run Tukey test after that to find out specifically which results are different compared to each other.
-   
-   -  Perform 3-way ANOVA between keywords, month, and search engine with an established alpha value of 0.05. Run Tukey test after that to find out specifically which results are different compared to each other.
-   
-#
-### Multiple ANOVA
+**One-Way ANOVA Result:**
+- P-Value = 7.19196465389629e-18 (This is nearly zero.)
+- We reject the null hypothesis that mean search volume is equal across all search engines.
+- Search engine on its own, does indeed constitute a difference in average search volume for athleisure-related items.
+
+**Tukey Test Result:**
+- In all cases, reject the null hypothesis that search engine 1 is equal to search engine 2 in terms of average search volume.
+- Search volumes are unique to each platform.
 
 #
-### Tukey Test
+### Multiple ANOVA + Tukey Test
 
-#
-### Results
+Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and search engine could not be run due to lack of processing power. However, two-factor ANOVA was run between all three factors to see if any two combinations of these factors was statistically significant. We essentially wanted to answer this question: **"Can we determine which specific 2-factor combinations of keyword/month/search engine generate the highest search volume?"**
+
+**Hypothesis Test 1: Keyword + Engine**
+- $H_{01}$ - All keyword/engine combinations are equal in terms of mean search volume.
+- $H_{A1}$ - Some keyword/engine combinations have greater mean search volume.
+
+**Two-Way ANOVA Result:**
+- P-Value = 1.008919e-151
+- Reject the null hypothesis that the mean search volume is equal among all Keyword/Engine combinations.
+
+**Hypothesis Test 2: Keyword + Month**
+- $H_{02}$ - All keyword/month combinations are equal in terms of mean search volume.
+- $H_{A2}$ - Some keyword/month combinations have greater mean search volume.
+
+**Two-Way ANOVA Result:**
+- P-Value = 7.896266e-01
+- Fail to reject the null hypothesis that the mean search volume is equal among Keyword/Month combinations.
+
+**Hypothesis Test 3: Engine + Month**
+- $H_{03}$ - All engine/month combinations are equal in terms of mean search volume.
+- $H_{A3}$ - Some engine/month combinations have greater mean search volume.
+
+**Two-Way ANOVA Result:**
+- P-Value = 7.789742e-01
+- Fail to reject the null hypothesis that the mean search volume is equal among Engine/Month combinations.
+
+**Conclusion**
+- Keyword/Engine combinations mean search volumes are statistically different from each other
+- Keyword/Month and Engine/Month are not statistically different from each other.
+
+**Tukey Test Result:**
+- From the Tukey Test, there were 10 Keyword/Engine combinations that were significantly different in search volume than the rest of the combinations. These 10 unique combinations will be our recommendations to our client.
+
+- "running" / youtube
+- "hoodie" / youtube
+- "sweatshirt" / youtube
+- "workout" / amazon
+- "flex" / youtube
+- "hoodie" / amazon
+- "leggings" / amazon
+- "workout" / youtube
+- "joggers" / amazon
+- "cotton" / youtube
 
 #
 ### Conclusions
