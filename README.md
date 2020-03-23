@@ -115,8 +115,8 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 ### Hypothesis Test 1: Keywords
 
 **Are there any differences between athleisure-related keywords when considering search volume?**
-- $H_{01}$ - All athleisure-related keywords are equal in terms of average search volume.
-- $H_{A1}$ - Some athleisure-related keywords have greater average search volumes than others.
+- H01 - All athleisure-related keywords are equal in terms of average search volume.
+- HA1 - Some athleisure-related keywords have greater average search volumes than others.
 
 **One-Way ANOVA Result:**
 - P-Value = 1.3293563590514185e-119 (This is nearly zero.)
@@ -134,8 +134,8 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 ### Hypothesis Test 2: Months
 
 **Are there any differences between months when considering search volume?**
-- $H_{02}$ - People will be equally likely to search for activewear-related terms in any given month.
-- $H_{A2}$ - People will be more likely to search for activewear-related terms depending on the month.
+- H02 - People will be equally likely to search for activewear-related terms in any given month.
+- HA2- People will be more likely to search for activewear-related terms depending on the month.
 
 **One-Way ANOVA Result:**
 - P-Value = 0.8831258135517717
@@ -149,8 +149,8 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 ### Hypothesis Test 3: Search Engine
 
 **Are there any differences among search engines when considering search volumes?**
-- $H_{03}$ - There will be an equal search volume for activewear-related terms on any platform.
-- $H_{A3}$ - There will be a greater search volume for activewear-related terms on one particular platform.
+- H03 - There will be an equal search volume for activewear-related terms on any platform.
+- HA3 - There will be a greater search volume for activewear-related terms on one particular platform.
    
 **One-Way ANOVA Result:**
 - P-Value = 7.19196465389629e-18 (This is nearly zero.)
@@ -167,24 +167,24 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and search engine could not be run due to lack of processing power. However, two-factor ANOVA was run between all three factors to see if any two combinations of these factors was statistically significant. We essentially wanted to answer this question: **"Can we determine which specific 2-factor combinations of keyword/month/search engine generate the highest search volume?"**
 
 **Hypothesis Test 1: Keyword + Engine**
-- $H_{01}$ - All keyword/engine combinations are equal in terms of mean search volume.
-- $H_{A1}$ - Some keyword/engine combinations have greater mean search volume.
+- H01 - All keyword/engine combinations are equal in terms of mean search volume.
+- HA1 - Some keyword/engine combinations have greater mean search volume.
 
 **Two-Way ANOVA Result:**
 - P-Value = 1.008919e-151
 - Reject the null hypothesis that the mean search volume is equal among all Keyword/Engine combinations.
 
 **Hypothesis Test 2: Keyword + Month**
-- $H_{02}$ - All keyword/month combinations are equal in terms of mean search volume.
-- $H_{A2}$ - Some keyword/month combinations have greater mean search volume.
+- H02 - All keyword/month combinations are equal in terms of mean search volume.
+- HA2 - Some keyword/month combinations have greater mean search volume.
 
 **Two-Way ANOVA Result:**
 - P-Value = 7.896266e-01
 - Fail to reject the null hypothesis that the mean search volume is equal among Keyword/Month combinations.
 
 **Hypothesis Test 3: Engine + Month**
-- $H_{03}$ - All engine/month combinations are equal in terms of mean search volume.
-- $H_{A3}$ - Some engine/month combinations have greater mean search volume.
+- H03 - All engine/month combinations are equal in terms of mean search volume.
+- HA3 - Some engine/month combinations have greater mean search volume.
 
 **Two-Way ANOVA Result:**
 - P-Value = 7.789742e-01
