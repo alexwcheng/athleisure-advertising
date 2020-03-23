@@ -23,7 +23,6 @@
 
 #
 ### Project Scenario
-The scenario for the project is as follows:
 
 Our client is a startup online clothing company that specializes in "athleisure" clothing in the US. Their marketing team wants to launch an ad campaign to increase online traffic on their website, which hopefully leads to more revenue. To best allocate time and effort for the launch of the ad campaign and maximize the audience to see their ads, they want to understand 3 things. 
 
@@ -32,11 +31,9 @@ Our client is a startup online clothing company that specializes in "athleisure"
    - Which **platform** are consumers using most for their searches?
 
 #
-### Project Goals
-The goals for the project are as follows:
+### Project Goals:
 
-   -  Based on our findings, we will provide at least 3 confident recommendations to the athleisure startup company's marketing team to figure out the best keywords, best timing, and best platform to run their ads.
-   -  We will arrive at these recommendations by analyzing data from Wordtracker - a paid database service with a representative sample of Google, Youtube, and Amazon search query data volume for a 1-year period between June 2018 and May 2019.
+-  Provide recommendations to the athleisure startup company to determine the best keywords, best timing, and best platform to run their ads.
 
 #
 ### Data
@@ -92,6 +89,8 @@ In observing metrics on each search engine, we found that Amazon and YouTube hav
 
 ![Search_Ratio_Bar_Plots](/images/Slides/Search_Ratio_Bar_Plots.png)
 
+![Probability Density Function For Total Number Of Searches For A Keyword](images/Probability Density Function For Total Number Of Searches For A Keyword.pdf)
+
 #
 ### Statistical Testing
 
@@ -133,6 +132,9 @@ In observing metrics on each search engine, we found that Amazon and YouTube hav
    - "sweatshirt"
    - "workout"
    - "flex"
+   
+![Keyword_Tukey_Test](/images/Keyword_Tukey_Test.png)
+
 #
 ### Hypothesis Test 2: Months
 
@@ -163,6 +165,8 @@ In observing metrics on each search engine, we found that Amazon and YouTube hav
 **Tukey Test Result:**
 - In all cases, reject the null hypothesis that search engine 1 is equal to search engine 2 in terms of average search volume.
 - Search volumes are unique to each platform.
+
+![Search_Engine_Tukey_Test](/images/Search_Engine_Tukey_Test.png)
 
 #
 ### Multiple ANOVA + Tukey Test
@@ -210,6 +214,8 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
    - "workout" / youtube
    - "joggers" / amazon
    - "cotton" / youtube
+
+![Keyword_Engine_Tukey_Test](/images/Keyword_Engine_Tukey_Test.png)
 
 #
 ### Conclusions
