@@ -62,15 +62,12 @@ Below is the method of how we decided on which terms related to "athleisure" to 
 # 
 ### Data Collection Process
 
-   -  Use API to understand database stats for Google, Youtube, and Amazon search volume.
-   -  Generate a list of popular athleisure-related keywords (searched "athleisure" on Amazon, and found 77 terms associated with athleisure products on the first few pages of "featured" results).
-   -  Call search volume by month, and totals for each keyword on the list from the Wordtracker API - split calls into small pieces so as not to go over the API call trial-account limit.
-   -  Merge all API calls into one raw dataframe.
+First, we used the Wordtracker API to get a general understanding of database stats for Google, Youtube, and Amazon search volume. Next, we requested search volume for each of our 77 keywords. We got search volumes by month, as well as totals for each keyword. We ended up having to painstakingly make several trial accounts in order to extract all of the data we needed. Furthermore, we had to split our API requests into 3 keywords at a time, so as not to go over the API trial-account limit for each account that we made. Finally, we coerced all API request JSONs into one concatenated DataFrame.
    
 #
 ### Data Cleaning
 
-   -  Clean data, calculate June values and impute into the dataframe (for some reason June values came in as "0" from the API).
+For some reason, when we extracted search volume data from Wordtracker, the search volumes for the month of June for all keywords all showed as 0. We suspected this was a bug with the API or a fault in the data. Luckily, the Wordtracker API returns the total search volume for all 12 months. From this, we were able to calculate all June values and impute these values into the DataFrame.
    
 #
 ### Exploratory Data Analysis
