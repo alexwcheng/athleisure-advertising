@@ -1,4 +1,6 @@
-# Athleisure Advertising Strategy
+# Athleisure Ads Strategy
+
+![Title_Slide](images/Slides/Title_Slide.png)
 
 ### Project File Summary
 
@@ -89,7 +91,13 @@ In observing metrics on each search engine, we found that Amazon and YouTube hav
 
 ![Search_Ratio_Bar_Plots](/images/Slides/Search_Ratio_Bar_Plots.png)
 
-![Probability Density Function For Total Number Of Searches For A Keyword](images/Probability Density Function For Total Number Of Searches For A Keyword.pdf)
+The Probability Density Function plot below shows that a pretty good chunk of our keywords have a small search volume - close to zero compared to the rest of our keywords. Clearly, some keywords are searched much higher than others, and highly searched keywords are rare.
+
+![PDF_Search_Volume](images/PDF_Search_Volume.png)
+
+The Cumulative Density Function plot below shows that 90% of our keywords have a search volume that is less than 200,000. Once again, this obviates that a large amount of our keywords have a low search volume, and that there are only a handful of highly searched keywords. This CDF plot is logarithmic in nature.
+
+![CDF_Search_Volume](images/CDF_Search_Volume.png)
 
 #
 ### Statistical Testing
