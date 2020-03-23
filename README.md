@@ -205,6 +205,8 @@ Unfortunately, a full-fledged three-factor ANOVA between keywords, month, and se
 - P-Value = 7.789742e-01 > 0.05
 - Fail to reject the null hypothesis that the mean search volume is equal among Engine/Month combinations.
 
+![2_Factor_ANOVA](images/2_Factor_ANOVA.png)
+
 **Conclusion**
 - Keyword/Engine combinations mean search volumes are statistically different from each other
 - Keyword/Month and Engine/Month are not statistically different from each other.
