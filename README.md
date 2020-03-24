@@ -1,6 +1,4 @@
-# Athleisure Ads Strategy
-
-![Title_Slide](images/Slides/Title_Slide.png)
+![Title_Slide_2](images/Slides/Title_Slide_2.png)
 
 ### Project File Summary
 
