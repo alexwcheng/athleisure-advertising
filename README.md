@@ -107,8 +107,8 @@ The Cumulative Density Function plot below shows that 90% of our keywords have a
 
 **Alpha Value**
 
-- **If alpha $\alpha$ < 0.05, then we reject the null hypothesis.**
-- **If alpha $\alpha$ >= 0.05, then we fail to reject the null hypothesis.**
+- **If alpha < 0.05, then we reject the null hypothesis.**
+- **If alpha >= 0.05, then we fail to reject the null hypothesis.**
 - This alpha value is not too lenient, nor is it too strict.
 - Alpha values typically range between 0.01, and 0.1.
 
