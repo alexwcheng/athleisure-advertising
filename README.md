@@ -70,6 +70,8 @@ For some reason, when we extracted search volume data from Wordtracker, the sear
 #
 ### Exploratory Data Analysis
 
+A Tableau dashboard was created to get a comprehensive understanding of the categorical and numerical data, all in one place. The Athleisure Advertising Tableau dashboard can be explored here: https://public.tableau.com/profile/alexander.cheng#!/vizhome/AthleisureAdvertising/AthleisureAdvertisingDashboard
+
 A collection of wordclouds provide a non-technical, graphic sense of scale to understand the most searched athleisure terms in each search engine. The larger the keyword appears in the wordcloud, then the more that keyword was searched compared to the others. 
 
 ![Wordcloud_Google](/images/Slides/Wordcloud_Google.png)
