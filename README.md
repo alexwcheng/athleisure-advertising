@@ -6,21 +6,21 @@
    - <b>[README.md](README.md)</b> - a summary of all contents in this repository.
    - <b>[data](/data)</b> - all data called from the Wordtracker API saved out as .csv files.
    - <b>[images](/images)</b> - all plots from data analysis.
-   - <b>[jupyter notebook](https://github.com/jfleury20/athleisure-ads-strategy/tree/master/jupyter_notebook)</b> - all Jupyter Notebooks generated for this project.
+   - <b>[jupyter notebook](https://github.com/alexwcheng/athleisure-advertising/tree/master/jupyter_notebook)</b> - all Jupyter Notebooks generated for this project.
    - <b>[project_prompt](/project_prompt)</b> - the prompt for this project.
-   - <b>[Athleisure Ads Strategy.pdf](https://github.com/jfleury20/athleisure-ads-strategy/blob/master/Athleisure%20Ads%20Strategy.pdf)</b> - the final presentation for this project.
+   - <b>[Athleisure Ads Strategy.pdf](https://github.com/alexwcheng/athleisure-advertising/blob/master/final_presentation/Athleisure_Advertising.pdf)</b> - the final presentation for this project.
    - <b>[athleisure.csv](athleisure.csv)</b> - the final dataset for this project, extracted and merged together from the Wordtracker API.
 
 #
 ### Project Members
 
    - <b>[Alex Cheng](https://github.com/alexwcheng)</b>
-   - <b>[Justin Fleury](https://github.com/jfleury20)</b>
+   - <b>[Justin Fleury](https://github.com/jfleury12)</b>
 
 #
 ### Project Responsibilities
 
-   -  All project responsibilities were shared equally between <b>[Alex Cheng](https://github.com/alexwcheng)</b> and <b>[Justin Fleury](https://github.com/jfleury20)</b>.
+   -  All project responsibilities were shared equally between <b>[Alex Cheng](https://github.com/alexwcheng)</b> and <b>[Justin Fleury](https://github.com/jfleury12)</b>.
 
 #
 ### Project Scenario
